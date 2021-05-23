@@ -246,5 +246,27 @@ Topic C: Prevent Privacy Vulnerabilities
 * Protecting Database Access
 -----
 ## Testing Software Security
+### Perform Security Testing
+* The Role of Testing
+* Phases of Software Testing
+* Development Testing
+* Unit Testing
+* Integration Testing
+* Documentation and Deliverables for Testing
+* Manual Inspection and Code Review
+* Code Review Strategies
+* Guidelines for Security Testing
+* Performing Manual Inspection and Review
+### Analyze Code to find Security Problems
+* Static Code Analysis
+* Strategies for Using Static Analysis
+* Dynamic Code Analysis
+* Guidelines for Code Analysis
+* Performing Code Analysis
+### Use Automated Testing Tools to Find Security Problems
+* Automated Testing
+* Unit Testing
+* Guidelines for Using Automated Testing Tools
+* Using a Test Suite to Automate Unit Testing
 -----
 ## Maintaining Security in Deployed Software
