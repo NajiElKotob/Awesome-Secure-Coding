@@ -270,3 +270,18 @@ Topic C: Prevent Privacy Vulnerabilities
 * Using a Test Suite to Automate Unit Testing
 -----
 ## Maintaining Security in Deployed Software
+### Monitor and Log Applications to Support Security
+* Emerging Security Problems
+* Situational Awareness
+* Security Monitoring
+* Intrusion Detection and Prevention
+* Monitor Placement
+* Logging
+* Guidelines for Monitoring and Logging a Deployed Application
+* Monitoring and Logging a Deployed Application 
+### Maintain Security after Deployment
+* Maintenance
+* Patches and Updates
+* Uninstallation and Deprovisioning
+* Guidelines for Maintaining Security of Deployed Software
+* Maintaining Security After Deployment 
