@@ -193,6 +193,57 @@ Topic C: Prevent Privacy Vulnerabilities
 * Handling Privacy Defects
 -----
 ## Implementing Common Protections
+### Limit Access Using Login and User Roles
+* Web Sessions
+* Secure Session Management
+* Methods for Passing Session IDs
+* Access Control
+* Guidelines for Secure Session Management
+* User Provisioning
+* Password Recovery
+* Account Lockouts
+* Guidelines for Secure Password Management
+* Handling Authentication and Authorization Defects
+### Protect Data in Transit and At Rest
+* Encryption
+* Uses for Encryption
+* Cryptographic Lifecycle
+* Symmetric Encryption
+* Asymmetric Encryption
+* Hashing
+* Digital Signatures
+* Digital Signature Non*repudiation
+* Digital Certificates
+* PKI
+* PKI Components
+* The PKI Process
+* Key Management
+* Key Management Factors
+* Certificate Revocation
+* Guidelines for Protecting Data in Transit and at Rest
+* Protecting Data in Transit and at Rest
+### Implement Error Handling and Logging
+* Error Handling
+* Uses for Error Handling
+* Error Messaging
+* Logging
+* Guidelines for Implementing Error Handling and Logging
+* Reviewing Error Handling
+* Improving Error Handling 
+### Protect Sensitive Data and Functions
+* Sensitive Data
+* Output Restrictions
+* Function Level Access Control
+* Case Study: Cross*Site Scripting Defect
+* Guidelines for Protecting Sensitive Data and Functions
+* Protecting Sensitive Data and Functions
+* Staging a Persisted XSS Attack on an Administrator Function
+### Protect Database Access
+* Case Study: SQL Injection Defect
+* Query Parameterization
+* Database Connection Credential Protection
+* Guidelines for Protecting Database Access
+* Protecting Database Access
 -----
 ## Testing Software Security
 -----
