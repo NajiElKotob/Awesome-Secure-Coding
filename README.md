@@ -41,6 +41,53 @@
 -----
 
 ## Handling Vulnerabilities
+### Handle Vulnerabilities Due to Software Defects and Misconfiguration
+* Software Defects
+* Causes of Software Defects
+* Guidelines for Preventing Security Defects
+* Preventing Security Defects
+* Problems in Third*Party Code
+* Problems in Standard Libraries
+* Dependencies
+* Encryption Validation
+* Security of Host Systems and Service Providers
+* Guidelines for Using Third*Party Code and Services
+* Host Platform Configuration
+* Hypervisor Vulnerabilities
+* Guidelines for Managing Vulnerabilities in External Hosts and Services
+* Identifying Vulnerabilities in a Software Project
+* Examining the Project Files
+* Error Messaging
+* Error Handling
+* Fail*Safe
+* Failure Recovery
+* Guidelines for Secure Error Handling
+* Identifying Software Defects and Misconfiguration
+
+### Handle Vulnerabilities Due to Human Factors
+* The Human Element in Software Security
+* Vulnerabilities Attributed to the Human Element
+* Social Engineering Attacks
+* User Input
+* Input Validation
+* Security Policy Enforcement
+* Guidelines for Managing People Risks
+* Managing People Risks
+
+### Handle Vulnerabilities Due to Process Shortcomings
+* Development Process Approaches
+* Building Security In
+* The CIA Triad
+* Requirements Phase
+* Design Phase
+* Development Phase
+* Testing Phase
+* Security Testing Tools
+* Deployment Phase
+* Maintenance Phase
+* Development Process Security
+* Guidelines for Software Development Processes
+* Managing Software Development Process Risks 
 -----
 ## Designing for Security
 -----
