@@ -9,5 +9,15 @@
 * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
 ### Find Vulnerabilities in Your Software
 ### Gather Intelligence on Vulnerabilities and Exploits
-
+-----
 ## Handling Vulnerabilities
+-----
+## Designing for Security
+-----
+## Developing Secure Code
+-----
+## Implementing Common Protections
+-----
+## Testing Software Security
+-----
+## Maintaining Security in Deployed Software
