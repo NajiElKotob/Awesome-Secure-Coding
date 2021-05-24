@@ -1,5 +1,5 @@
 # Awesome Secure Coding
-- Based on CertNexus CSC - [Cyber Secure Coder](https://certnexus.com/certification/cyber-secure-coder/)
+- Outlines are based on CertNexus CSC - [Cyber Secure Coder](https://certnexus.com/certification/cyber-secure-coder/)
 
 {Stay tuned, WIP}
 
