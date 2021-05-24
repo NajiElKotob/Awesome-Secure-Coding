@@ -97,6 +97,7 @@
 * Security in the Design Phase
 * Security by Obscurity vs. Security by Design
 * OWASP Security Design Principles
+  * [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) - OWASP
 * Minimize Attack Surface Area
 * Establish Secure Defaults
 * Least Privilege
