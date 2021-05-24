@@ -20,6 +20,7 @@
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
   * [What Is Phishing?](https://www.comptia.org/content/articles/what-is-phishing) - comptia.org
 * Software Security Terminology
+  * [The Dummies Guide to Cyber Security Terminology](https://www.metacompliance.com/cyber-security-terminology/)
 * Identifying Factors That Undermine Security 
 
 ### Find Vulnerabilities in Your Software
