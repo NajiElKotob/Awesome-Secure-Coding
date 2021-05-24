@@ -6,7 +6,7 @@
 ##  Identifying the Need for Security in Your Software Projects
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
-  * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
+  * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
 * Business Requirements
 * Standards and Compliance Requirements
 * User Impact
@@ -20,8 +20,9 @@
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
   * [What Is Phishing?](https://www.comptia.org/content/articles/what-is-phishing) - comptia.org
 * Software Security Terminology
-  * [The Dummies Guide to Cyber Security Terminology](https://www.metacompliance.com/cyber-security-terminology/)
+  * [The Dummies Guide to Cyber Security Terminology](https://www.metacompliance.com/cyber-security-terminology/) - metacompliance.com
 * Identifying Factors That Undermine Security 
+  * [The Human Factor in IT Security: How Employees are Making Businesses Vulnerable from Within](https://www.kaspersky.com/blog/the-human-factor-in-it-security/) - kaspersky.com
 
 ### Find Vulnerabilities in Your Software
 * Builders and Breakers
