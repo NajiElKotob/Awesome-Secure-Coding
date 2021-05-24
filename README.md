@@ -6,7 +6,7 @@
 ##  Identifying the Need for Security in Your Software Projects
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
- * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
+  * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
 * Business Requirements
 * Standards and Compliance Requirements
 * User Impact
