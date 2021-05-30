@@ -82,6 +82,7 @@
 * Development Process Approaches
 * Building Security In
 * The CIA Triad
+  * [CIA Triad](https://resources.infosecinstitute.com/topic/cia-triad/) 
 * Requirements Phase
 * Design Phase
 * Development Phase
