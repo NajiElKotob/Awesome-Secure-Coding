@@ -62,6 +62,7 @@
 * Examining the Project Files
 * Error Messaging
 * Error Handling
+  * [Improper Error Handling](https://owasp.org/www-community/Improper_Error_Handling) - owasp.org
 * Fail*Safe
 * Failure Recovery
 * Guidelines for Secure Error Handling
