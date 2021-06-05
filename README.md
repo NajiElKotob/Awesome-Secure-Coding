@@ -37,6 +37,7 @@
 * Fixing a Password Hash Vulnerability
 ### Gather Intelligence on Vulnerabilities and Exploits
 * Vulnerability Intelligence
+  * [Enabling Defenders With Vulnerability Intelligence](https://www.fireeye.com/blog/threat-research/2020/04/enabling-defenders-with-vulnerability-intelligence.html) - fireeye.com
 * Exploits
 * Guidelines for Researching Vulnerabilities and Exploits
 * Identifying Sources for Vulnerability Intelligence 
