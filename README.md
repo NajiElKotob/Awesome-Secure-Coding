@@ -74,6 +74,7 @@
 * The Human Element in Software Security
 * Vulnerabilities Attributed to the Human Element
 * Social Engineering Attacks
+  * [5 Social Engineering Attacks to Watch Out For](https://www.tripwire.com/state-of-security/security-awareness/5-social-engineering-attacks-to-watch-out-for/) - David Bisson
 * User Input
 * Input Validation
 * Security Policy Enforcement
