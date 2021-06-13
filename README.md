@@ -15,6 +15,7 @@
 * Consequences of Not Meeting Security Requirements
 * Guidelines for Identifying Security Requirements and Expectations
 * Identifying Security Requirements and Expectations
+  * [Examples of ISO 27001 interested parties and your compliance requirements](https://www.itgovernance.co.uk/blog/examples-of-iso-27001-interested-parties) 
 ### Identify Factors That Undermine Software Security
 * Three Ps of Software Security
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
