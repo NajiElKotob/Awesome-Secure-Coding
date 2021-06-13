@@ -295,3 +295,8 @@ Topic C: Prevent Privacy Vulnerabilities
 * Uninstallation and Deprovisioning
 * Guidelines for Maintaining Security of Deployed Software
 * Maintaining Security After Deployment 
+
+-----
+
+## YouTube :tv:
+* [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM) - OWASP DevSlop
