@@ -21,3 +21,8 @@
 * XML - Extensible Markup Language
 * XSS - cross-site scripting
 * XXE - XML External Entity
+
+
+-----
+
+* ISMS - Information Security Management System
