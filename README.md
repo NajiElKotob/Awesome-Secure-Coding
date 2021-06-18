@@ -33,6 +33,7 @@
 * Common Attack Patterns
   * [The 5 Most Common Attack Patterns of 2014](https://www.tripwire.com/state-of-security/featured/the-5-most-common-attack-patterns-of-2014/) 
 * Case Study: Protecting Against a Password Attack
+  * [Case Studies in Poor Password Management](https://resources.infosecinstitute.com/topic/case-studies-in-poor-password-management/) - infosecinstitute.com (Dimitar Kostadinov)
 * Guidelines for Identifying Software Security Vulnerabilities
 * Identifying Vulnerabilities in an Application
 * Cracking a Password Hash
