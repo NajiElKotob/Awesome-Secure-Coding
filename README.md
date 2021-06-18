@@ -29,6 +29,7 @@
 * Builders and Breakers
 * Hacking
 * Phases of an Attack
+  * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.com
 * Common Attack Patterns
   * [The 5 Most Common Attack Patterns of 2014](https://www.tripwire.com/state-of-security/featured/the-5-most-common-attack-patterns-of-2014/) 
 * Case Study: Protecting Against a Password Attack
