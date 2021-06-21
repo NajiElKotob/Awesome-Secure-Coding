@@ -27,6 +27,7 @@
 
 ### Find Vulnerabilities in Your Software
 * Builders and Breakers
+  * [Builders vs Breakers: Bridging the gap Between Software Development and InfoSec](https://securitytrails.com/blog/interview-tanya-janca) - Tanya Janca
 * Hacking
 * Phases of an Attack
   * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.com
