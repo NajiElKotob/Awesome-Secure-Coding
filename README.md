@@ -64,6 +64,8 @@
 * Guidelines for Using Third*Party Code and Services
 * Host Platform Configuration
 * Hypervisor Vulnerabilities
+  * [What is a hypervisor?](https://www.vmware.com/topics/glossary/content/hypervisor) - vmware.com
+  * [The vulnerabilities of hypervisors](http://www.techadvisory.org/2019/04/the-vulnerabilities-of-hypervisors/) - techadvisory.org
 * Guidelines for Managing Vulnerabilities in External Hosts and Services
 * Identifying Vulnerabilities in a Software Project
 * Examining the Project Files
