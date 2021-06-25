@@ -118,6 +118,7 @@
 * Separation of Duties
 * Security by Obscurity
 * Keep Security Simple
+  * [Top 10 Secure Computing Tips](https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips) 
 * Fix Security Issues Correctly
 * Software Design Patterns
 * Security Patterns
