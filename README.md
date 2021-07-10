@@ -311,3 +311,8 @@ Topic C: Prevent Privacy Vulnerabilities
 
 ## YouTube :tv:
 * [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM) - OWASP DevSlop
+
+
+-----
+## References
+* [NIST](https://www.nist.gov/cybersecurity) - nist.gov
