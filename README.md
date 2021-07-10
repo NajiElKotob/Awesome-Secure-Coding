@@ -19,6 +19,7 @@
 * User Expectations
   * Users expect applications to operate in a secure manner and without any error.
 * Platform Requirements
+  * [Sample Terms of Use Template](https://www.termsfeed.com/blog/sample-terms-of-use-template/) 
 * Consequences of Not Meeting Security Requirements
 * Guidelines for Identifying Security Requirements and Expectations
 * Identifying Security Requirements and Expectations
