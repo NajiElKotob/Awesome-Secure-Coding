@@ -86,6 +86,7 @@
 * User Input
 * Input Validation
   * [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) - owasp.org
+  * Blacklist vs Whitelist
 * Security Policy Enforcement
 * Guidelines for Managing People Risks
 * Managing People Risks
@@ -154,6 +155,7 @@
 * Security Zones
 * Strategies for Ranking Threats
 * DREAD
+  * [Qualitative Risk Analysis with the DREAD Model](https://resources.infosecinstitute.com/topic/qualitative-risk-analysis-dread-model/) - infosecinstitute.com
 * Risk Response Strategies
 * Severity
 * Risks Outside Your Control
