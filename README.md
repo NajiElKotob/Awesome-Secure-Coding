@@ -316,4 +316,5 @@ Topic C: Prevent Privacy Vulnerabilities
 -----
 ## References
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov
+* [OWASP](https://owasp.org/) - owasp.org
 * [SANS](https://www.sans.org/) - sans.org
