@@ -7,6 +7,7 @@
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
+  * [Understand the information security lifecycle](https://www.protectivesecurity.govt.nz/information-security/lifecycle/) - protectivesecurity.govt.nz
 * Business Requirements
 * Standards and Compliance Requirements
 * User Impact
