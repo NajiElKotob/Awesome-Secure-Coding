@@ -251,7 +251,8 @@ Topic C: Prevent Privacy Vulnerabilities
 * Sensitive Data
 * Output Restrictions
 * Function Level Access Control
-  * [Missing Function Level Access Control](https://blog.detectify.com/2016/07/13/owasp-top-10-missing-function-level-access-control-7/) - 
+  * [Missing Function Level Access Control](https://blog.detectify.com/2016/07/13/owasp-top-10-missing-function-level-access-control-7/) - detectify.com
+  * [What is Missing Function Level Access Control? :tv:](https://www.youtube.com/watch?v=oVV-lSB7ddc) - Detectify
 * Case Study: Cross*Site Scripting Defect
 * Guidelines for Protecting Sensitive Data and Functions
 * Protecting Sensitive Data and Functions
