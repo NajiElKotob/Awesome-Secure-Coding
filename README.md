@@ -9,6 +9,7 @@
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
   * [Understand the information security lifecycle](https://www.protectivesecurity.govt.nz/information-security/lifecycle/) - protectivesecurity.govt.nz
 * Business Requirements
+  * All stakeholders should be involved 
 * Standards and Compliance Requirements
   * Government Regulations e.g., HIPAA, FISMA, SOX, GLBA, FFIEC, GDPR, etc.
   * Insdustry Standards e.g., COBIT, ITIL, ISO/IEC 27000, GASSP/GAISP, SABSA, NIST, PCI DSS, etc. 
