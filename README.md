@@ -325,6 +325,8 @@ Topic C: Prevent Privacy Vulnerabilities
 ## YouTube :tv:
 * [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM) - OWASP DevSlop
 
+## Articles
+* [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
 
 -----
 ## References
