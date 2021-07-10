@@ -17,6 +17,7 @@
   * Stuxnet
   * Zero-day  
 * User Expectations
+  * Users expect applications to operate in a secure manner and without any error.
 * Platform Requirements
 * Consequences of Not Meeting Security Requirements
 * Guidelines for Identifying Security Requirements and Expectations
