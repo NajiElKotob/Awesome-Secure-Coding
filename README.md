@@ -85,6 +85,7 @@
   * [5 Social Engineering Attacks to Watch Out For](https://www.tripwire.com/state-of-security/security-awareness/5-social-engineering-attacks-to-watch-out-for/) - David Bisson
 * User Input
 * Input Validation
+  * [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) - owasp.org
 * Security Policy Enforcement
 * Guidelines for Managing People Risks
 * Managing People Risks
