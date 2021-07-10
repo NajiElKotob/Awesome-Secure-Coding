@@ -186,6 +186,8 @@
 
 ### Prevent Platform Vulnerabilities
 * OWASP Top Ten Platform Vulnerabilities
+  * [OWASP Top 10](https://github.com/OWASP/Top10) - OWASP GitHub 
+  * [OWASP Top 10 - Detectify](https://blog.detectify.com/?s=OWASP+TOP+10) - detectify.com
 * Authentication
 * Authorization
 * Broken Authentication
