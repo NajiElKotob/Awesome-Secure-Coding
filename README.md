@@ -26,6 +26,7 @@
 * Guidelines for Identifying Security Requirements and Expectations
   * Identify sources of security requirements
   * Elicit and prioritize security requirements 
+  * Meet PCI DSS requirements
 * Identifying Security Requirements and Expectations
   * [Examples of ISO 27001 interested parties and your compliance requirements](https://www.itgovernance.co.uk/blog/examples-of-iso-27001-interested-parties) 
 ### Identify Factors That Undermine Software Security
