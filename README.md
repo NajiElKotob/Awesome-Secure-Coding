@@ -31,6 +31,7 @@
   * [Examples of ISO 27001 interested parties and your compliance requirements](https://www.itgovernance.co.uk/blog/examples-of-iso-27001-interested-parties) 
 ### Identify Factors That Undermine Software Security
 * Three Ps of Software Security
+  * [The 3 Ps of Comprehensive Cybersecurity](https://blogs.cisco.com/customerexperience/the-3-ps-of-comprehensive-security) - cisco.com
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
   * [What Is Phishing?](https://www.comptia.org/content/articles/what-is-phishing) - comptia.org
 * Software Security Terminology
