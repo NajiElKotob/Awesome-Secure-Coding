@@ -53,6 +53,9 @@
 * Guidelines for Identifying Software Security Vulnerabilities
 * Identifying Vulnerabilities in an Application
 * Cracking a Password Hash
+  * [crackstation](https://crackstation.net/) 
+  * [password-cracking-with-hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/)
+  * [How to crack passwords with Hashcat](https://cyberrunner.medium.com/how-to-crack-passwords-with-hashcat-a9fb2aa1a813)
 * Fixing a Password Hash Vulnerability
 ### Gather Intelligence on Vulnerabilities and Exploits
 * Vulnerability Intelligence
