@@ -7,6 +7,7 @@
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
+  * [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl/) - microsoft.com
   * [Understand the information security lifecycle](https://www.protectivesecurity.govt.nz/information-security/lifecycle/) - protectivesecurity.govt.nz
 * Business Requirements
   * All stakeholders should be involved 
@@ -151,8 +152,8 @@
 
 
 ### Design Software to Counter Specific Threats
-* The Risk Equation
-* Threat Modeling
+* [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
+* [Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
 * Benefits of Threat Modeling
 * Step 1: Define General Security Objectives and Scope
 * Tooling and Documentation
