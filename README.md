@@ -338,6 +338,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov
 * [OWASP](https://owasp.org/) - owasp.org
+* [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [SANS](https://www.sans.org/) - sans.org
 
