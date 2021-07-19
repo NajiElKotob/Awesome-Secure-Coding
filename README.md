@@ -334,6 +334,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 -----
 ## References
+* [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov
 * [OWASP](https://owasp.org/) - owasp.org
