@@ -339,3 +339,6 @@ Topic C: Prevent Privacy Vulnerabilities
 * [OWASP](https://owasp.org/) - owasp.org
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [SANS](https://www.sans.org/) - sans.org
+
+## Monitoring
+* [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
