@@ -345,3 +345,6 @@ Topic C: Prevent Privacy Vulnerabilities
 ## Monitoring
 * [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
 * [Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - fireeye.com
+
+## Cases
+* [OpenSSL Heartbeat (Heartbleed) :tv:](https://www.youtube.com/watch?v=hTK0pywfmDE) - Fierce Outlaws
