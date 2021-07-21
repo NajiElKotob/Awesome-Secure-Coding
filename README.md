@@ -7,6 +7,7 @@
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
+  * [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl/) - microsoft.com
   * [Understand the information security lifecycle](https://www.protectivesecurity.govt.nz/information-security/lifecycle/) - protectivesecurity.govt.nz
 * Business Requirements
   * All stakeholders should be involved 
@@ -53,6 +54,9 @@
 * Guidelines for Identifying Software Security Vulnerabilities
 * Identifying Vulnerabilities in an Application
 * Cracking a Password Hash
+  * [crackstation](https://crackstation.net/) 
+  * [password-cracking-with-hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/)
+  * [How to crack passwords with Hashcat](https://cyberrunner.medium.com/how-to-crack-passwords-with-hashcat-a9fb2aa1a813)
 * Fixing a Password Hash Vulnerability
 ### Gather Intelligence on Vulnerabilities and Exploits
 * Vulnerability Intelligence
@@ -148,11 +152,15 @@
 
 
 ### Design Software to Counter Specific Threats
-* The Risk Equation
-* Threat Modeling
-* Benefits of Threat Modeling
+* [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
+* [Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
+* [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
 * Step 1: Define General Security Objectives and Scope
 * Tooling and Documentation
+  * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
+  * [OWASP Threat Dragon](https://threatdragon.org/login)
+  * [SecuriCAD by Foreseeti](https://foreseeti.com/)
+  * [ThreatModeler](https://threatmodeler.com/)
 * Assets
 * Step 2: Decompose the Software
 * Trust Levels
