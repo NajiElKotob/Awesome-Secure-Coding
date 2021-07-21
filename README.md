@@ -155,7 +155,7 @@
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
 * [Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
 * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
-* Step 1: Define General Security Objectives and Scope
+* Define General Security Objectives and Scope
 * Tooling and Documentation
   * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
   * [OWASP Threat Dragon](https://threatdragon.org/login)
