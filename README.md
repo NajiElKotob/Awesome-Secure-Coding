@@ -349,6 +349,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [SANS](https://www.sans.org/) - sans.org
+* [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
 
 ## Monitoring
 * [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
