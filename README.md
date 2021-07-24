@@ -153,7 +153,9 @@
 
 ### Design Software to Counter Specific Threats
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
-* [Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
+* Threat Modeling
+  * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
+  * [12 Available Methods (Threat Modeling)](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) - cmu.edu
 * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
 * Define General Security Objectives and Scope
 * Tooling and Documentation
