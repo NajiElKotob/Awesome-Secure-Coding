@@ -330,6 +330,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Situational Awareness
 * Security Monitoring
 * Intrusion Detection and Prevention
+  * [What is an intrusion prevention system?](https://www.vmware.com/topics/glossary/content/intrusion-prevention-system) - vmware.com
   * [Best Intrusion Detection and Prevention Systems for 2021 (Guide to IDPS)](https://www.esecurityplanet.com/products/intrusion-detection-and-prevention-systems/) - esecurityplanet.com
 * Monitor Placement
 * Logging
