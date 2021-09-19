@@ -6,6 +6,9 @@ to how software will be coded and encrypted to best defend against
 cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ```
 {Awesome Works in Progress}
+## Hello Sec.
+* [What is secure coding?](https://www.whitehatsec.com/glossary/content/secure-coding)
+
 
 ##  Identifying the Need for Security in Your Software Projects
 ### Identify Security Requirements and Expectations
