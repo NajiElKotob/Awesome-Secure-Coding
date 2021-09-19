@@ -338,6 +338,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Monitoring and Logging a Deployed Application 
 ### Maintain Security after Deployment
 * Maintenance
+  * [he 4 software maintenance categories and what they mean for your users](https://www.parkersoftware.com/blog/the-4-software-maintenance-categories-and-what-they-mean-for-your-users/)
 * Patches and Updates
 * Uninstallation and Deprovisioning
 * Guidelines for Maintaining Security of Deployed Software
