@@ -1,7 +1,11 @@
 # Awesome Secure Coding
-- Outlines are based on CertNexus CSC - [Cyber Secure Coder](https://certnexus.com/certification/cyber-secure-coder/)
-
-{Stay tuned, WIP}
+~ Outlines are based on CertNexus CSC ([Cyber Secure Coder](https://certnexus.com/certification/cyber-secure-coder/))
+```
+Secure coding is a set of practices that applies security considerations 
+to how software will be coded and encrypted to best defend against 
+cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
+```
+{Awesome Works in Progress}
 
 ##  Identifying the Need for Security in Your Software Projects
 ### Identify Security Requirements and Expectations
