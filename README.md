@@ -18,6 +18,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Understand the information security lifecycle](https://www.protectivesecurity.govt.nz/information-security/lifecycle/) - protectivesecurity.govt.nz
 * Business Requirements
   * All stakeholders should be involved 
+  * [Engaging Stakeholders for Project Success](https://www.pmi.org/learning/library/engaging-stakeholders-project-success-11199) - pmi.org
 * Standards and Compliance Requirements
   * Government Regulations e.g., HIPAA, FISMA, SOX, GLBA, FFIEC, GDPR, etc.
   * Insdustry Standards e.g., COBIT, ITIL, ISO/IEC 27000, GASSP/GAISP, SABSA, NIST, PCI DSS, etc. 
