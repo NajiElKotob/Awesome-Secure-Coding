@@ -2,6 +2,7 @@
 * AAA - authentication, authorization, and accounting
 * CIA - confidentiality, integrity, and availability
 * DoS - Denial of Service
+* DDoS - Distributed Denial of Service 🆕
 * GDPR - General Data Protection Regulation
 * HIPAA - Health Insurance Portability and Accountability Act
 * IoT - Internet of Things
