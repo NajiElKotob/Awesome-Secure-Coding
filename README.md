@@ -28,7 +28,14 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - FFIEC
     - GDPR
     - CCPA
-  * Insdustry Standards e.g., COBIT, ITIL, ISO/IEC 27000, GASSP/GAISP, SABSA, NIST, PCI DSS, etc. 
+  * Insdustry Standards e.g.
+    - COBIT
+    - ITIL
+    - ISO/IEC 27000
+    - GASSP/GAISP
+    - SABSA
+    - NIST
+    - PCI DSS 
 * User Impact
   * [Colonial Hack Shows U.S. Must Diversify Its Oil Reserves](https://www.bloomberg.com/opinion/articles/2021-05-16/colonial-pipeline-hack-shows-u-s-must-diversify-its-oil-reserves) - bloomberg.com
   * Stuxnet
