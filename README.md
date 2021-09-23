@@ -357,6 +357,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Maintenance
   * [The 4 software maintenance categories and what they mean for your users](https://www.parkersoftware.com/blog/the-4-software-maintenance-categories-and-what-they-mean-for-your-users/)
 * Patches and Updates
+  * [What is Regression Testing?](https://smartbear.com/learn/automated-testing/what-is-regression-testing/) - smartbear.com
 * Uninstallation and Deprovisioning
 * Guidelines for Maintaining Security of Deployed Software
 * Maintaining Security After Deployment 
