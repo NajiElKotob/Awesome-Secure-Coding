@@ -343,6 +343,8 @@ Topic C: Prevent Privacy Vulnerabilities
 ### Monitor and Log Applications to Support Security
 * Emerging Security Problems
 * Situational Awareness
+  * Bug Bounty Program
+    - [Microsoft Bug Bounty Program](https://www.microsoft.com/en-us/msrc/bounty) 
 * Security Monitoring
 * Intrusion Detection and Prevention
   * [What is an intrusion prevention system?](https://www.vmware.com/topics/glossary/content/intrusion-prevention-system) - vmware.com
@@ -353,7 +355,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Monitoring and Logging a Deployed Application 
 ### Maintain Security after Deployment
 * Maintenance
-  * [he 4 software maintenance categories and what they mean for your users](https://www.parkersoftware.com/blog/the-4-software-maintenance-categories-and-what-they-mean-for-your-users/)
+  * [The 4 software maintenance categories and what they mean for your users](https://www.parkersoftware.com/blog/the-4-software-maintenance-categories-and-what-they-mean-for-your-users/)
 * Patches and Updates
 * Uninstallation and Deprovisioning
 * Guidelines for Maintaining Security of Deployed Software
