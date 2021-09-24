@@ -31,7 +31,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Insdustry Standards e.g.
     - COBIT
     - ITIL
-    - ISO/IEC 27000
+    - [ISO/IEC 27000](https://www.iso.org/news/ref2266.html) - Information Security Management System Standards
     - GASSP/GAISP
     - [SABSA](https://sabsa.org/) - Sherwood Applied Business Security Architecture
     - [NIST](https://www.nist.gov/) - National Institute of Standards and Technology
