@@ -374,7 +374,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 ## Articles
 * [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
-
+* [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
 -----
 ## References
 * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
