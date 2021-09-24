@@ -33,7 +33,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - ITIL
     - ISO/IEC 27000
     - GASSP/GAISP
-    - SABSA
+    - [SABSA](https://sabsa.org/) - Sherwood Applied Business Security Architecture
     - [NIST](https://www.nist.gov/) - National Institute of Standards and Technology
     - PCI DSS 
 * User Impact
