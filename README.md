@@ -34,7 +34,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - ISO/IEC 27000
     - GASSP/GAISP
     - SABSA
-    - NIST
+    - [NIST](https://www.nist.gov/) National Institute of Standards and Technology
     - PCI DSS 
 * User Impact
   * [Colonial Hack Shows U.S. Must Diversify Its Oil Reserves](https://www.bloomberg.com/opinion/articles/2021-05-16/colonial-pipeline-hack-shows-u-s-must-diversify-its-oil-reserves) - bloomberg.com
