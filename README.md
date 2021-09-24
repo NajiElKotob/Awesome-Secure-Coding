@@ -71,6 +71,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.com
 * Common Attack Patterns
   * [The 5 Most Common Attack Patterns of 2014](https://www.tripwire.com/state-of-security/featured/the-5-most-common-attack-patterns-of-2014/) 
+  * [Flood Attacks](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/intrusionprevention/flood_attacks_c.html) also known as Denial of Service (DoS) attacks. In a flood attack, attackers send a very high volume of traffic to a system so that it cannot examine and allow permitted network traffic.
 * Case Study: Protecting Against a Password Attack
   * [Case Studies in Poor Password Management](https://resources.infosecinstitute.com/topic/case-studies-in-poor-password-management/) - infosecinstitute.com (Dimitar Kostadinov)
 * Guidelines for Identifying Software Security Vulnerabilities
