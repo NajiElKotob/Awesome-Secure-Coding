@@ -265,7 +265,13 @@ Topic C: Prevent Privacy Vulnerabilities
 * Data Anonymization
 * Guidelines to Prevent Privacy Vulnerability Defects
 * Handling Privacy Defects
+
+### Prevent Platform Vulnerabilities
+
+
+
 -----
+
 ## Implementing Common Protections
 ### Limit Access Using Login and User Roles
 * Web Sessions
