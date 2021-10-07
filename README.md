@@ -67,6 +67,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Builders vs Breakers: Bridging the gap Between Software Development and InfoSec](https://securitytrails.com/blog/interview-tanya-janca) - Tanya Janca
 * Hacking
   * [Hacking](https://www.malwarebytes.com/hacker) - malwarebytes.com
+  * [Ethical hacker](https://searchsecurity.techtarget.com/definition/ethical-hacker) :star: - techtarget.com
 * Phases of an Attack
   * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.com
 * Common Attack Patterns
