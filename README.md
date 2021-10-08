@@ -397,6 +397,9 @@ Topic C: Prevent Privacy Vulnerabilities
 * [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
 * [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
 * [Difference between Defect, Error, Bug, Failure and Fault!](https://www.360logica.com/blog/difference-between-defect-error-bug-failure-and-fault/) - 360logica.com
+
+## Acronyms and Definitions
+* [Acronyms and Definitions](https://github.com/NajiElKotob/Awesome-Secure-Coding/blob/main/Acronyms-and-Definitions.md)
 -----
 ## References
 * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
