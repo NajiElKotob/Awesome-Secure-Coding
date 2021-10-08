@@ -220,6 +220,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Development Documentation and Deliverables
 * Application and Data Integrity
   * [Python Dependency Security](https://pyup.io/) - pyup.io | Keep your Python dependencies secure, up-to-date & compliant
+  * [GitHub-native Dependabot](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates) - You can use Dependabot to keep the packages you use updated to the latest versions.
 * Common General Programming Errors
 * Insecure Deserialization
 * Guidelines for Secure Coding
