@@ -219,6 +219,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ### Follow Best Practices for Secure Coding
 * Development Documentation and Deliverables
 * Application and Data Integrity
+  * [Python Dependency Security](https://pyup.io/) - pyup.io | Keep your Python dependencies secure, up-to-date & compliant
 * Common General Programming Errors
 * Insecure Deserialization
 * Guidelines for Secure Coding
