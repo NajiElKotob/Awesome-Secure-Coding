@@ -222,6 +222,18 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Python Dependency Security](https://pyup.io/) - pyup.io | Keep your Python dependencies secure, up-to-date & compliant
   * [GitHub-native Dependabot](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates) - You can use Dependabot to keep the packages you use updated to the latest versions.
 * Common General Programming Errors
+  * Inappropriate use of dangerous functions, APIs, and system calls 
+  * Use of deprecated libraries 
+  * Buffer overruns 
+  * Race conditions 
+  * Integer range issues 
+  * Out of bounds array indexing 
+  * Unhandled exceptions 
+  * Memory leaks 
+  * Dangling and null pointer references 
+  * Unused code 
+  * Uninitialized variables 
+  * Injection vulnerabilities
 * Insecure Deserialization
 * Guidelines for Secure Coding
 * Researching Your Secure Coding Checklist
