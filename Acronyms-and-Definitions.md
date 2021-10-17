@@ -1,6 +1,7 @@
 ## Acronyms
 * AAA - authentication, authorization, and accounting
 * CIA - confidentiality, integrity, and availability
+* CISO - Chief Information Security Officer 🆕
 * DoS - Denial of Service
 * DDoS - Distributed Denial of Service 🆕
 * GDPR - General Data Protection Regulation
