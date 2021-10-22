@@ -184,6 +184,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Threat Modeling
   * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
   * [12 Available Methods (Threat Modeling)](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) - cmu.edu
+  * [Threat Modeling](https://www.synopsys.com/glossary/what-is-threat-modeling.html) :star: - synopsys.com | 
 * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
 * Define General Security Objectives and Scope
 * Tooling and Documentation
