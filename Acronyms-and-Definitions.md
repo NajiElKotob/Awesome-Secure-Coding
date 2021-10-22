@@ -27,7 +27,7 @@
 -----
 ## Definitions
 * The **honeypot** looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure [learn more](https://me-en.kaspersky.com/resource-center/threats/what-is-a-honeypot)
-* [Privacy by Design (PbD)](https://www.digital.govt.nz/standards-and-guidance/privacy-security-and-risk/privacy/manage-a-privacy-programme/privacy-by-design-pbd/) - digital.govt.nz
+* [Privacy by Design (PbD)](https://www.digital.govt.nz/standards-and-guidance/privacy-security-and-risk/privacy/manage-a-privacy-programme/privacy-by-design-pbd/) is a design methodology that includes privacy as an essential priority of any product, service, system or process. - digital.govt.nz
 
 -----
 ## Glossaries
