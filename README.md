@@ -77,6 +77,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Memory Manipulation
   * Reverse Engineering
   * Functionality misuse
+  * [Sustained Client Engagement](https://capec.mitre.org/data/definitions/227.html)
   * [Action Spoofing](https://capec.mitre.org/data/definitions/173.html)
 * Case Study: Protecting Against a Password Attack
   * [Case Studies in Poor Password Management](https://resources.infosecinstitute.com/topic/case-studies-in-poor-password-management/) - infosecinstitute.com (Dimitar Kostadinov)
