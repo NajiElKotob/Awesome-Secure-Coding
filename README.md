@@ -91,6 +91,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Enabling Defenders With Vulnerability Intelligence](https://www.fireeye.com/blog/threat-research/2020/04/enabling-defenders-with-vulnerability-intelligence.html) - fireeye.com
 * Exploits
 * Guidelines for Researching Vulnerabilities and Exploits
+  * [CAPEC - Common Attack Pattern Enumerations and Classifications](https://capec.mitre.org/) - mitre.org | MITRE 
 * Identifying Sources for Vulnerability Intelligence 
 
 
