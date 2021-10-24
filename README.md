@@ -372,6 +372,8 @@ Topic C: Prevent Privacy Vulnerabilities
 * Integration Testing
   * White box testing (Source Code); Gray box testing; Black box testing 
 * Documentation and Deliverables for Testing
+  * Input: Business requirements; SRS; Threat Models; Data flow Diagram
+  * Output: Vulnerability Reports; Quality Assurance Reports
 * Manual Inspection and Code Review
 * Code Review Strategies
 * Guidelines for Security Testing
