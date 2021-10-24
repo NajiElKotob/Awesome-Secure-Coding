@@ -348,7 +348,8 @@ Topic C: Prevent Privacy Vulnerabilities
 ## Testing Software Security
 ### Perform Security Testing
 * The Role of Testing
-* Phases of Software Testing
+* Phases of Software Testin
+  * [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) 
 * Development Testing
 * Unit Testing
 * Integration Testing
