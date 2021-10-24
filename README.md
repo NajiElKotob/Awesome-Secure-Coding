@@ -359,6 +359,9 @@ Topic C: Prevent Privacy Vulnerabilities
 ## Testing Software Security
 ### Perform Security Testing
 * The Role of Testing
+  * Test early and test often.
+  * View software design and implementation from an attacker's perspective.
+  * Think of threat modeling as a form of testing (Testing the design). 
 * Phases of Software Testin
   * [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) 
 * Development Testing
