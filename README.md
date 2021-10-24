@@ -370,6 +370,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Unit Testing
   * Input Validation; Output Encoding; Session Management (A&A); Encryption; Error Handling; Logging 
 * Integration Testing
+  * White box testing (Source Code); Gray box testing; Black box testing 
 * Documentation and Deliverables for Testing
 * Manual Inspection and Code Review
 * Code Review Strategies
