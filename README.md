@@ -426,6 +426,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov
 * [OWASP](https://owasp.org/) - owasp.org
 * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
+* [CAPEC](https://capec.mitre.org/) - mitre.org
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [SANS](https://www.sans.org/) - sans.org
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
