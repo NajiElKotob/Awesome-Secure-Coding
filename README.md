@@ -368,6 +368,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * Separation of duties (SoD; also known as Segregation of Duties) is the concept of having more than one person required to complete a task. 
   * **Dynamic analysis** is the testing and evaluation of an application during runtime. **Static analysis** is the testing and evaluation of an application by examining the code without executing the application. [Learn more](https://www.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/getting-started/dynamic-analysis-vs-static-analysis.html)
 * Unit Testing
+  * Input Validation; Output Encoding; Session Management (A&A); Encryption; Error Handling; Logging 
 * Integration Testing
 * Documentation and Deliverables for Testing
 * Manual Inspection and Code Review
