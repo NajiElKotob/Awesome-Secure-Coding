@@ -386,8 +386,8 @@ Topic C: Prevent Privacy Vulnerabilities
     * Pair Programming  
 * Guidelines for Security Testing
   * Performing Manual Inspection and Review
-    - Web Server e.g., dotnet new web
-    - IP Address
+    - Web Server e.g., dotnet new web; dotnet watch
+    - IP Address e.g., [MVC - Block IP Address Using Action Filter](https://www.c-sharpcorner.com/article/mvc-block-ip-address-using-action-filter/)
     - Query String (Whitelist, Length, Data type)
     - Authentication e.g., Authorize, AllowAnonymous
     - Directory browsing
