@@ -393,6 +393,7 @@ Topic C: Prevent Privacy Vulnerabilities
     - Directory browsing
 ### Analyze Code to find Security Problems
 * Static Code Analysis
+  * Static Code Analysis | The process of using a computer program to find problems in code, without actually executing the code. 
 * Strategies for Using Static Analysis
 * Dynamic Code Analysis
 * Guidelines for Code Analysis
