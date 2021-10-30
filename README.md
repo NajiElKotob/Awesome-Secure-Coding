@@ -375,6 +375,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * Input: Business requirements; SRS; Threat Models; Data flow Diagram
   * Output: Vulnerability Reports; Quality Assurance Reports
 * Manual Inspection and Code Review
+  * Looking at your code from a different perspective will find problems or ask questions that you haven't considered. 
 * Code Review Strategies
 * Guidelines for Security Testing
 * Performing Manual Inspection and Review
