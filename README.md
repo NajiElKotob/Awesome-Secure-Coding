@@ -362,6 +362,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * Test early and test often.
   * View software design and implementation from an attacker's perspective.
   * Think of threat modeling as a form of testing (Testing the design). 
+  * Mindsets; penetrate and patch, penetrate and improve, building security in
 * Phases of Software Testin
   * [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) 
 * Development Testing
