@@ -378,6 +378,12 @@ Topic C: Prevent Privacy Vulnerabilities
   * Security Analysis | A detailed process to ensure that software operates at a level of security consistent with the potential harm that could result from the loss, inaccuracy, alteration, unavailability, or misuse of the data and resources that it uses, controls, and protects.
   * Looking at your code from a different perspective will find problems or ask questions that you haven't considered. 
 * Code Review Strategies
+  * Formal
+    * Fagan Inspection |  A formal analysis process that includes a series of structured activities involving multiple participants and phases—such as planning, inspection, rework, and verification. The objective is to reveal defects in programming code.
+  * Informal
+    * Over the wall (aks Pass Around)
+    * Over the shoulder
+    * Pair Programming  
 * Guidelines for Security Testing
 * Performing Manual Inspection and Review
 ### Analyze Code to find Security Problems
