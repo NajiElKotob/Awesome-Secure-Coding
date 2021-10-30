@@ -385,7 +385,12 @@ Topic C: Prevent Privacy Vulnerabilities
     * Over the shoulder
     * Pair Programming  
 * Guidelines for Security Testing
-* Performing Manual Inspection and Review
+  * Performing Manual Inspection and Review
+    - Web Server e.g., dotnet new web
+    - IP Address
+    - Query String (Whitelist, Length, Data type)
+    - Authentication e.g., Authorize, AllowAnonymous
+    - Directory browsing
 ### Analyze Code to find Security Problems
 * Static Code Analysis
 * Strategies for Using Static Analysis
