@@ -375,6 +375,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * Input: Business requirements; SRS; Threat Models; Data flow Diagram
   * Output: Vulnerability Reports; Quality Assurance Reports
 * Manual Inspection and Code Review
+  * Security Analysis | A detailed process to ensure that software operates at a level of security consistent with the potential harm that could result from the loss, inaccuracy, alteration, unavailability, or misuse of the data and resources that it uses, controls, and protects.
   * Looking at your code from a different perspective will find problems or ask questions that you haven't considered. 
 * Code Review Strategies
 * Guidelines for Security Testing
