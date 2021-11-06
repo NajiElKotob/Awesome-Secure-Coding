@@ -55,6 +55,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - Learn how Microsoft products and services help your organization meet regulatory compliance standards.
 * User Impact
   * [Colonial Hack Shows U.S. Must Diversify Its Oil Reserves](https://www.bloomberg.com/opinion/articles/2021-05-16/colonial-pipeline-hack-shows-u-s-must-diversify-its-oil-reserves) - bloomberg.com
+  * [HAFNIUM targeting Exchange Servers with 0-day exploits](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/)
+    - [خطوة غير مسبوقة.. FBI يخترق مئات الحواسيب عن بُعد](https://www.alarabiya.net/technology/2021/04/15/%D8%AE%D8%B7%D9%88%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82%D8%A9-FBI-%D9%8A%D8%AE%D8%AA%D8%B1%D9%82-%D9%85%D8%A6%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B3%D9%8A%D8%A8-%D8%B9%D9%86-%D8%A8%D9%8F%D8%B9%D8%AF) - alarabiya.net 
   * Stuxnet
   * Zero-day  
 * User Expectations
