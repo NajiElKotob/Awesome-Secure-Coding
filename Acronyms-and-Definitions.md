@@ -24,6 +24,7 @@
 * XML - Extensible Markup Language
 * XSS - cross-site scripting
 * XXE - XML External Entity
+* SIEM - Security Information and Event Management
 -----
 ## Definitions
 * The **honeypot** looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure [learn more](https://me-en.kaspersky.com/resource-center/threats/what-is-a-honeypot)
