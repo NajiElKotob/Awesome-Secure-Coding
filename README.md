@@ -50,6 +50,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - [SABSA](https://sabsa.org/) - Sherwood Applied Business Security Architecture
     - [NIST](https://www.nist.gov/) - National Institute of Standards and Technology
     - PCI DSS 
+  * Cases
+    - [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - Learn how Microsoft products and services help your organization meet regulatory compliance standards.
 * User Impact
   * [Colonial Hack Shows U.S. Must Diversify Its Oil Reserves](https://www.bloomberg.com/opinion/articles/2021-05-16/colonial-pipeline-hack-shows-u-s-must-diversify-its-oil-reserves) - bloomberg.com
   * Stuxnet
