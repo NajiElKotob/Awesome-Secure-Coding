@@ -8,13 +8,13 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 {Awesome Works in Progress}
 
 -----
-1. [Identifying the Need for Security in Your Software Projects](#identifying-the-need-for-security-in-your-software-projects)
-1. [Handling Vulnerabilities](#handling-vulnerabilities)
-1. [Designing for Security](#designing-for-security)
-1. [Developing Secure Code](#developing-secure-code)
-1. [Implementing Common Protections](#implementing-common-protections)
-1. [Testing Software Security](#testing-software-security)
-1. [Maintaining Security in Deployed Software](#maintaining-security-in-deployed-software)
+1. [Identifying the Need for Security in Your Software Projects](#1-identifying-the-need-for-security-in-your-software-projects)
+1. [Handling Vulnerabilities](#2-handling-vulnerabilities)
+1. [Designing for Security](#3-designing-for-security)
+1. [Developing Secure Code](#4-developing-secure-code)
+1. [Implementing Common Protections](#5-implementing-common-protections)
+1. [Testing Software Security](#6-testing-software-security)
+1. [Maintaining Security in Deployed Software](#7-maintaining-security-in-deployed-software)
 
 
 -----
