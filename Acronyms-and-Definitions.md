@@ -27,7 +27,7 @@
 * SIEM - Security Information and Event Management
 
 -----
-## Keywords
+## Software Security Terminology
 * [Vulnerability](https://csrc.nist.gov/glossary/term/vulnerability) is a weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
 
 -----
