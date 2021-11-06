@@ -21,7 +21,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * [What is secure coding?](https://www.whitehatsec.com/glossary/content/secure-coding)
 
 
-##  Identifying the Need for Security in Your Software Projects
+##  1. Identifying the Need for Security in Your Software Projects
 ### Identify Security Requirements and Expectations
 * Security Throughout the Development Process
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
@@ -109,8 +109,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 
 -----
-
-## Handling Vulnerabilities
+## 2. Handling Vulnerabilities
 ### Handle Vulnerabilities Due to Software Defects and Misconfiguration
 * Software Defects
 * Causes of Software Defects
@@ -165,8 +164,10 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Development Process Security
 * Guidelines for Software Development Processes
 * Managing Software Development Process Risks 
+
+
 -----
-## Designing for Security
+## 3. Designing for Security
 ### Apply General Principles for Secure Design
 * Security in the Design Phase
 * Security by Obscurity vs. Security by Design
@@ -229,8 +230,10 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Step 4: Counter Each Threat
 * Countermeasures
 * Identifying Threats and Countermeasures
+
+
 -----
-## Developing Secure Code
+## 4. Developing Secure Code
 ### Follow Best Practices for Secure Coding
 * Development Documentation and Deliverables
 * Application and Data Integrity
@@ -300,8 +303,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 
 -----
-
-## Implementing Common Protections
+## 5. Implementing Common Protections
 ### Limit Access Using Login and User Roles
 * Web Sessions
 * Secure Session Management
@@ -355,8 +357,10 @@ Topic C: Prevent Privacy Vulnerabilities
 * Database Connection Credential Protection
 * Guidelines for Protecting Database Access
 * Protecting Database Access
+
+
 -----
-## Testing Software Security
+## 6. Testing Software Security
 ### Perform Security Testing
 * The Role of Testing
   * Test early and test often.
@@ -404,8 +408,10 @@ Topic C: Prevent Privacy Vulnerabilities
 * Unit Testing
 * Guidelines for Using Automated Testing Tools
 * Using a Test Suite to Automate Unit Testing
+
+
 -----
-## Maintaining Security in Deployed Software
+## 7. Maintaining Security in Deployed Software
 ### Monitor and Log Applications to Support Security
 * Emerging Security Problems
 * Situational Awareness
