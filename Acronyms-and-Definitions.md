@@ -1,6 +1,6 @@
 ## Acronyms
 * AAA - authentication, authorization, and accounting
-* CIA - confidentiality, integrity, and availability
+* CIA - confidentiality, integrity, and availability [ℹ](https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
 * CISO - Chief Information Security Officer
 * DoS - Denial of Service
 * DDoS - Distributed Denial of Service
@@ -25,6 +25,10 @@
 * XSS - cross-site scripting
 * XXE - XML External Entity
 * SIEM - Security Information and Event Management
+
+-----
+## Keywords
+* Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
 -----
 ## Definitions
 * The **honeypot** looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure [learn more](https://me-en.kaspersky.com/resource-center/threats/what-is-a-honeypot)
