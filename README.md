@@ -119,6 +119,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Software Defects
   * [Difference between Defect, Error, Bug, Failure and Fault!](https://www.360logica.com/blog/difference-between-defect-error-bug-failure-and-fault/) - 360logica.com
 * Causes of Software Defects
+  * Flaw in the design; Bugs; 3rd party code; Change in the context; ... 
 * Guidelines for Preventing Security Defects
 * Preventing Security Defects
 * Problems in Third*Party Code
