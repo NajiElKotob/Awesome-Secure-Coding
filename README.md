@@ -208,7 +208,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ### Design Software to Counter Specific Threats
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
 * Threat Modeling
-  * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
+  * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling) - owasp.org
+  * [Microsoft Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - microsoft.com
   * [12 Available Methods (Threat Modeling)](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) - cmu.edu
   * [Threat Modeling](https://www.synopsys.com/glossary/what-is-threat-modeling.html) :star: - synopsys.com | 
 * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
