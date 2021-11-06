@@ -36,12 +36,13 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Standards and Compliance Requirements
   * Government Regulations e.g. 
     - HIPAA - Health Insurance Portability and Accountability Act
-    - FISMA
-    - SOX
-    - GLBA
-    - FFIEC
-    - GDPR
-    - CCPA
+    - FISMA - Federal Information Security Management Act 
+    - SOX - Sarbanes-Oxley Act 
+    - GLBA - Gramm-Leach-Bliley Act 
+    - New York State Information Security Breach and Notification Act [learn more](https://its.ny.gov/breach-notification)
+    - FFIEC - Federal Financial Institutions Examination Council 
+    - GDPR - General Data Protection Regulation (EU)
+    - CCPA - California Consumer Privacy Act 
   * Insdustry Standards e.g.
     - COBIT
     - ITIL
