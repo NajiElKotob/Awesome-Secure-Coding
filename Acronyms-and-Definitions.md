@@ -25,6 +25,7 @@
 * XSS - cross-site scripting
 * XXE - XML External Entity
 * SIEM - Security Information and Event Management
+* ZTNA - Zero Trust Network Access
 
 -----
 ## Software Security Terminology
