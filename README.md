@@ -445,6 +445,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM) - OWASP DevSlop
 
 ## Articles
+* [The Top 8 Cybersecurity Predictions for 2021-2022](https://www.gartner.com/en/articles/the-top-8-cybersecurity-predictions-for-2021-2022) - gartner.com
 * [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
 * [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
 * [Difference between Defect, Error, Bug, Failure and Fault!](https://www.360logica.com/blog/difference-between-defect-error-bug-failure-and-fault/) - 360logica.com
