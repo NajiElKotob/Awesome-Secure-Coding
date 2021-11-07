@@ -44,13 +44,13 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - GDPR - General Data Protection Regulation (EU)
     - CCPA - California Consumer Privacy Act 
   * Insdustry Standards e.g.
-    - COBIT
-    - ITIL
+    - COBIT - Control Objectives for Information and Related Technology
+    - ITIL - Information Technology Infrastructure Library 
     - [ISO/IEC 27000](https://www.iso.org/news/ref2266.html) - Information Security Management System Standards
-    - GASSP/GAISP
+    - GASSP/GAISP - Generally Accepted System Security Principles and Generally Accepted Information Security Principles
     - [SABSA](https://sabsa.org/) - Sherwood Applied Business Security Architecture
     - [NIST](https://www.nist.gov/) - National Institute of Standards and Technology
-    - PCI DSS 
+    - PCI DSS - Payment Card Industry Data Security Standard 
   * Cases
     - [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - Learn how Microsoft products and services help your organization meet regulatory compliance standards.
 * User Impact
