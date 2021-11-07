@@ -161,7 +161,9 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * User Input
 * Input Validation
   * [Input Validation Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html) - owasp.org
-  * Blacklist vs Whitelist
+    - **Syntactic** validation should enforce correct syntax of structured fields (e.g. SSN, date, currency symbol).
+    - **Semantic** validation should enforce correctness of their values in the specific business context (e.g. start date is before end date, price is within expected range).
+* Blacklist vs Whitelist
 * Security Policy Enforcement
 * Guidelines for Managing People Risks
 * Managing People Risks
