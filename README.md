@@ -62,8 +62,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - informationisbeautiful.net
 * User Expectations
   * Users expect applications to operate in a secure manner and without any error.
+  * [Sample Terms of Use Template](https://www.termsfeed.com/blog/sample-terms-of-use-template/) - termsfeed.com
 * Platform Requirements
-  * [Sample Terms of Use Template](https://www.termsfeed.com/blog/sample-terms-of-use-template/) 
 * Consequences of Not Meeting Security Requirements
   * [5 Consequences That Result From Not Meeting Data Security Requirements](https://dzone.com/articles/5-consequences-that-result-from-not-meeting-data-s) - dzone.com
 * Guidelines for Identifying Security Requirements and Expectations
