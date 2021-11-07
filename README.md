@@ -121,7 +121,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 -----
 ## 2. Handling Vulnerabilities
-### Handle Vulnerabilities Due to Software Defects and Misconfiguration
+### 2.1. Handle Vulnerabilities Due to Software Defects and Misconfiguration
 * Software Defects
   * [Difference between Defect, Error, Bug, Failure and Fault!](https://www.360logica.com/blog/difference-between-defect-error-bug-failure-and-fault/) - 360logica.com
 * Causes of Software Defects
@@ -149,7 +149,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Guidelines for Secure Error Handling
 * Identifying Software Defects and Misconfiguration
 
-### Handle Vulnerabilities Due to Human Factors
+### 2.2. Handle Vulnerabilities Due to Human Factors
 * The Human Element in Software Security
 * Vulnerabilities Attributed to the Human Element
 * Social Engineering Attacks
@@ -162,7 +162,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Guidelines for Managing People Risks
 * Managing People Risks
 
-### Handle Vulnerabilities Due to Process Shortcomings
+### 2.3. Handle Vulnerabilities Due to Process Shortcomings
 * Development Process Approaches
 * Building Security In
 * The CIA Triad
@@ -181,7 +181,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 -----
 ## 3. Designing for Security
-### Apply General Principles for Secure Design
+### 3.1. Apply General Principles for Secure Design
 * Security in the Design Phase
 * Security by Obscurity vs. Security by Design
 * OWASP Security Design Principles
@@ -207,7 +207,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Avoiding Common Security Design Flaws
 
 
-### Design Software to Counter Specific Threats
+### 3.2. Design Software to Counter Specific Threats
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
 * Threat Modeling
   * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling) - owasp.org
@@ -248,7 +248,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 -----
 ## 4. Developing Secure Code
-### Follow Best Practices for Secure Coding
+### 4.1. Follow Best Practices for Secure Coding
 * Development Documentation and Deliverables
 * Application and Data Integrity
   * [Python Dependency Security](https://pyup.io/) - pyup.io | Keep your Python dependencies secure, up-to-date & compliant
@@ -285,7 +285,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Guidelines to Prevent Race Condition Defects
 * Performing a Memory*Based Attack
 
-### Prevent Platform Vulnerabilities
+### 4.2. Prevent Platform Vulnerabilities
 * OWASP Top Ten Platform Vulnerabilities
   * [OWASP Top 10](https://github.com/OWASP/Top10) - OWASP GitHub 
   * [OWASP Top 10 - Detectify](https://blog.detectify.com/?s=OWASP+TOP+10) - detectify.com
@@ -312,13 +312,13 @@ Topic C: Prevent Privacy Vulnerabilities
 * Guidelines to Prevent Privacy Vulnerability Defects
 * Handling Privacy Defects
 
-### Prevent Platform Vulnerabilities
+### 4.3. Prevent Platform Vulnerabilities
 
 
 
 -----
 ## 5. Implementing Common Protections
-### Limit Access Using Login and User Roles
+### 5.1. Limit Access Using Login and User Roles
 * Web Sessions
 * Secure Session Management
 * Methods for Passing Session IDs
@@ -329,7 +329,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Account Lockouts
 * Guidelines for Secure Password Management
 * Handling Authentication and Authorization Defects
-### Protect Data in Transit and At Rest
+### 5.2. Protect Data in Transit and At Rest
 * Encryption
 * Uses for Encryption
 * Cryptographic Lifecycle
@@ -347,7 +347,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Certificate Revocation
 * Guidelines for Protecting Data in Transit and at Rest
 * Protecting Data in Transit and at Rest
-### Implement Error Handling and Logging
+### 5.3. Implement Error Handling and Logging
 * Error Handling
 * Uses for Error Handling
 * Error Messaging
@@ -355,7 +355,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Guidelines for Implementing Error Handling and Logging
 * Reviewing Error Handling
 * Improving Error Handling 
-### Protect Sensitive Data and Functions
+### 5.4. Protect Sensitive Data and Functions
 * Sensitive Data
 * Output Restrictions
 * Function Level Access Control
@@ -365,7 +365,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Guidelines for Protecting Sensitive Data and Functions
 * Protecting Sensitive Data and Functions
 * Staging a Persisted XSS Attack on an Administrator Function
-### Protect Database Access
+### 5.5. Protect Database Access
 * Case Study: SQL Injection Defect
 * Query Parameterization
 * Database Connection Credential Protection
@@ -375,7 +375,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 -----
 ## 6. Testing Software Security
-### Perform Security Testing
+### 6.1. Perform Security Testing
 * The Role of Testing
   * Test early and test often.
   * View software design and implementation from an attacker's perspective.
@@ -410,14 +410,14 @@ Topic C: Prevent Privacy Vulnerabilities
     - Query String (Whitelist, Length, Data type)
     - Authentication e.g., Authorize, AllowAnonymous
     - Directory browsing
-### Analyze Code to find Security Problems
+### 6.2. Analyze Code to find Security Problems
 * Static Code Analysis
   * Static Code Analysis | The process of using a computer program to find problems in code, without actually executing the code. 
 * Strategies for Using Static Analysis
 * Dynamic Code Analysis
 * Guidelines for Code Analysis
 * Performing Code Analysis
-### Use Automated Testing Tools to Find Security Problems
+### 6.3. Use Automated Testing Tools to Find Security Problems
 * Automated Testing
 * Unit Testing
 * Guidelines for Using Automated Testing Tools
@@ -426,7 +426,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 -----
 ## 7. Maintaining Security in Deployed Software
-### Monitor and Log Applications to Support Security
+### 7.1. Monitor and Log Applications to Support Security
 * Emerging Security Problems
 * Situational Awareness
   * Bug Bounty Program
@@ -439,7 +439,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * Logging
 * Guidelines for Monitoring and Logging a Deployed Application
 * Monitoring and Logging a Deployed Application 
-### Maintain Security after Deployment
+### 7.2. Maintain Security after Deployment
 * Maintenance
   * [The 4 software maintenance categories and what they mean for your users](https://www.parkersoftware.com/blog/the-4-software-maintenance-categories-and-what-they-mean-for-your-users/)
 * Patches and Updates
