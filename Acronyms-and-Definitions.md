@@ -29,16 +29,16 @@
 
 -----
 ## Software Security Terminology
-* [Vulnerability](https://csrc.nist.gov/glossary/term/vulnerability) is a weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
-* Asset
-* Threat
-* Threat Agent
-* Vector
-* Risk
-* Risk Ranking
-* Exploit
-* Consequence
-* Countermeasure
+* [Vulnerability](https://csrc.nist.gov/glossary/term/vulnerability): A weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
+* Asset: Items of value
+* Threat: The possibility of an event
+* Threat Agent: A person, actor, organization, disaster, or other entity that initiates the occurrence of a threat.
+* Vector: The path or source through witch a threat is delivered.
+* Risk: The likelihood that a particular threat will actually materialize.
+* Risk Ranking: Risk is often ranked in terms of Probability x Impact
+* Exploit: A particular procedure or tool that facilitates a particular type of threat.
+* Consequence: Damage that results from a threat being carried out.
+* Countermeasure: Countermeasures are code, configuration of systems
 
 
 -----
