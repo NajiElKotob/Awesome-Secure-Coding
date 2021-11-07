@@ -25,7 +25,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 
 ##  1. Identifying the Need for Security in Your Software Projects
-### Identify Security Requirements and Expectations
+### 1.1. Identify Security Requirements and Expectations
 * Security Throughout the Development Process
   * [What are the Microsoft SDL practices?](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - microsoft.com
   * [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl/) - microsoft.com
@@ -72,7 +72,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Meet PCI DSS requirements
 * Identifying Security Requirements and Expectations
   * [Examples of ISO 27001 interested parties and your compliance requirements](https://www.itgovernance.co.uk/blog/examples-of-iso-27001-interested-parties) 
-### Identify Factors That Undermine Software Security
+### 1.2. Identify Factors That Undermine Software Security
 * Three Ps of Software Security
   * [The 3 Ps of Comprehensive Cybersecurity](https://blogs.cisco.com/customerexperience/the-3-ps-of-comprehensive-security) - cisco.com
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
@@ -82,7 +82,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Identifying Factors That Undermine Security 
   * [The Human Factor in IT Security: How Employees are Making Businesses Vulnerable from Within](https://www.kaspersky.com/blog/the-human-factor-in-it-security/) - kaspersky.com
 
-### Find Vulnerabilities in Your Software
+### 1.3. Find Vulnerabilities in Your Software
 * Builders and Breakers
   * [Builders vs Breakers: Bridging the gap Between Software Development and InfoSec](https://securitytrails.com/blog/interview-tanya-janca) - Tanya Janca
 * Hacking
@@ -110,7 +110,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Password Cracking with Hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/) - cryptokait.com
   * [How to crack passwords with Hashcat](https://cyberrunner.medium.com/how-to-crack-passwords-with-hashcat-a9fb2aa1a813)
 * Fixing a Password Hash Vulnerability
-### Gather Intelligence on Vulnerabilities and Exploits
+### 1.4. Gather Intelligence on Vulnerabilities and Exploits
 * Vulnerability Intelligence
   * [Enabling Defenders With Vulnerability Intelligence](https://www.fireeye.com/blog/threat-research/2020/04/enabling-defenders-with-vulnerability-intelligence.html) - fireeye.com
 * Exploits
