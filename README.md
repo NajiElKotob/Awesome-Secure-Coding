@@ -76,7 +76,6 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Three Ps of Software Security
   * [The 3 Ps of Comprehensive Cybersecurity](https://blogs.cisco.com/customerexperience/the-3-ps-of-comprehensive-security) - cisco.com
   * [The 3 P’s of Cybersecurity](https://cmitsolutions.com/blog/3-ps-cybersecurity-put-basic-fundamentals-work-business/) - cmitsolutions.com
-  * [What Is Phishing?](https://www.comptia.org/content/articles/what-is-phishing) - comptia.org
 * Software Security Terminology
   * [The Dummies Guide to Cyber Security Terminology](https://www.metacompliance.com/cyber-security-terminology/) - metacompliance.com
 * Identifying Factors That Undermine Security 
@@ -98,6 +97,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Memory Manipulation
   * Reverse Engineering
   * Functionality misuse
+  * [What Is Phishing?](https://www.comptia.org/content/articles/what-is-phishing) - comptia.org
   * [Sustained Client Engagement](https://capec.mitre.org/data/definitions/227.html)
   * [Action Spoofing](https://capec.mitre.org/data/definitions/173.html)
 * Case Study: Protecting Against a Password Attack
