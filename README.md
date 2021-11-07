@@ -69,7 +69,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Guidelines for Identifying Security Requirements and Expectations
   * Identify sources of security requirements
   * Elicit and prioritize security requirements 
-  * Meet PCI DSS requirements
+  * Meet Standards and Compliance Requirements
 * Identifying Security Requirements and Expectations
   * [Examples of ISO 27001 interested parties and your compliance requirements](https://www.itgovernance.co.uk/blog/examples-of-iso-27001-interested-parties) 
 ### 1.2. Identify Factors That Undermine Software Security
