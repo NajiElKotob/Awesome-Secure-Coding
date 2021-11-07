@@ -88,8 +88,9 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Hacking
   * [Hacking](https://www.malwarebytes.com/hacker) - malwarebytes.com
   * [Ethical hacker](https://searchsecurity.techtarget.com/definition/ethical-hacker) :star: - techtarget.com
+  * [Different Types of Hackers: The 6 Hats Explained](https://sectigostore.com/blog/different-types-of-hackers-hats-explained/) - sectigostore.com
 * Phases of an Attack
-  * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.com
+  * [The seven phases of a cyber attack](https://www.dnv.com/article/the-seven-phases-of-a-cyber-attack-118270) - dnv.comsectigostore.com
 * Common Attack Patterns
   * [The 5 Most Common Attack Patterns of 2014](https://www.tripwire.com/state-of-security/featured/the-5-most-common-attack-patterns-of-2014/) 
   * [Flood Attacks](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/intrusionprevention/flood_attacks_c.html) also known as Denial of Service (DoS) attacks. In a flood attack, attackers send a very high volume of traffic to a system so that it cannot examine and allow permitted network traffic.
