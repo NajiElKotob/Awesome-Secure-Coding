@@ -148,7 +148,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Error Messaging
 * Error Handling
   * [Improper Error Handling](https://owasp.org/www-community/Improper_Error_Handling) - owasp.org
-* Fail*Safe
+* Fail-Safe | A system or plan that comes into operation in the event of something going wrong or that is in place to prevent such an occurrence.
 * Failure Recovery
 * Guidelines for Secure Error Handling
 * Identifying Software Defects and Misconfiguration
