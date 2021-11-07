@@ -105,6 +105,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Guidelines for Identifying Software Security Vulnerabilities
 * Identifying Vulnerabilities in an Application
 * Cracking a Password Hash
+  * [MD5 Hash Generator](https://www.md5hashgenerator.com/) - md5hashgenerator
   * [Password Hash Cracker](https://crackstation.net/) - crackstation.net
   * [Password Cracking with Hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/) - cryptokait.com
   * [How to crack passwords with Hashcat](https://cyberrunner.medium.com/how-to-crack-passwords-with-hashcat-a9fb2aa1a813)
