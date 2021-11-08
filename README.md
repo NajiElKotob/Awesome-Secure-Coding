@@ -215,7 +215,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Modular Design
 * Benefits of Modular Design
 * The Balance Between Defense in Depth and Simplicity
-* Guidelines for Avoiding Common Design Mistakes
+* [Guidelines for Avoiding Common Design Mistakes](https://www.synopsys.com/blogs/software-security/avoid-software-security-flaws/) - synopsys.com
   * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
   * Use an authentication mechanism that cannot be bypassed or tampered with.
   * Authorize after you authenticate.
