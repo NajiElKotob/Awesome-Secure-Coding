@@ -216,6 +216,16 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Benefits of Modular Design
 * The Balance Between Defense in Depth and Simplicity
 * Guidelines for Avoiding Common Design Mistakes
+  * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
+  * Use an authentication mechanism that cannot be bypassed or tampered with.
+  * Authorize after you authenticate.
+  * Strictly separate data and control instructions, and never process control instructions received from untrusted sources.
+  * Define an approach that ensures that all data are explicitly validated.
+  * Use cryptography correctly.
+  * Identify sensitive data and how they should be handled.
+  * Always consider the users.
+  * Understand how integrating external components changes your attack surface.
+  * Be flexible when considering future changes to objects and actors.
 * Avoiding Common Security Design Flaws
 
 
