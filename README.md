@@ -490,6 +490,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [Exploit Database](https://www.exploit-db.com/) - exploit-db.com | Exploits for Penetration Testers, Researchers, and Ethical Hackers
 * [SANS](https://www.sans.org/) - sans.org | SANS Institute is the most trusted resource for cybersecurity training, certifications and research.
+  * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/) 
 * [CVE Details](https://www.cvedetails.com/) - cvedetails.com | The ultimate security vulnerability datasource
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
 
