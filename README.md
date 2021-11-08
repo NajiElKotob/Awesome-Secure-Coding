@@ -222,11 +222,15 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ### 3.2. Design Software to Counter Specific Threats
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
 * Threat Modeling
+  * Microsoft Threat Modeling
+    - [Microsoft Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - microsoft.com
+  * SeaSponge
+    - [SeaSponge Threat Modeling Tool](https://mozilla.github.io/seasponge/)
+    - [Example Threat Model developed with SeaSponge](https://github.com/mozilla/seasponge#example-threat-model-developed-with-seasponge)
   * [Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling) - owasp.org
-  * [Microsoft Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - microsoft.com
   * [12 Available Methods (Threat Modeling)](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) - cmu.edu
   * [Threat Modeling](https://www.synopsys.com/glossary/what-is-threat-modeling.html) :star: - synopsys.com | 
-* [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
+  * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
 * Define General Security Objectives and Scope
 * Tooling and Documentation
   * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
