@@ -493,3 +493,5 @@ Topic C: Prevent Privacy Vulnerabilities
 
 ## Cases
 * [OpenSSL Heartbeat (Heartbleed) :tv:](https://www.youtube.com/watch?v=hTK0pywfmDE) - Fierce Outlaws
+* [Cracking Stuxnet, a 21st-century cyber weapon](https://www.youtube.com/watch?v=CS01Hmjv1pQ) - Ralph Langner
+
