@@ -471,13 +471,14 @@ Topic C: Prevent Privacy Vulnerabilities
 ## References
 * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
-* [NIST](https://www.nist.gov/cybersecurity) - nist.gov
-* [OWASP](https://owasp.org/) - owasp.org
+* [NIST](https://www.nist.gov/cybersecurity) - nist.gov | The National Institute of Standards and Technology
+* [OWASP](https://owasp.org/) - owasp.org | The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
 * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
-* [CWE]() - mitre.org | Common Weakness Enumeration
+* [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
-* [SANS](https://www.sans.org/) - sans.org
+* [Exploit Database](https://www.exploit-db.com/) - exploit-db.com | Exploits for Penetration Testers, Researchers, and Ethical Hackers
+* [SANS](https://www.sans.org/) - sans.org | SANS Institute is the most trusted resource for cybersecurity training, certifications and research.
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
 
 ## Monitoring
