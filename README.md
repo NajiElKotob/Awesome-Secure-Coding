@@ -243,6 +243,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Diagramming the Catalog Application
 * Step 3: Identify and Rank Threats
 * STRIDE
+  * [STRIDE chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/) - microsoft.com
 * PASTA
 * Misuse Cases
 * Security Zones
