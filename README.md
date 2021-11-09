@@ -495,8 +495,10 @@ Topic C: Prevent Privacy Vulnerabilities
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov | The National Institute of Standards and Technology
 * [OWASP](https://owasp.org/) - owasp.org | The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
-* [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
-* [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
+* MITRE
+  * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
+  * [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
+  * [ATT&CK](https://attack.mitre.org/) - mitre.org | MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [Exploit Database](https://www.exploit-db.com/) - exploit-db.com | Exploits for Penetration Testers, Researchers, and Ethical Hackers
 * [SANS](https://www.sans.org/) - sans.org | SANS Institute is the most trusted resource for cybersecurity training, certifications and research.
