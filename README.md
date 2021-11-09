@@ -474,6 +474,10 @@ Topic C: Prevent Privacy Vulnerabilities
 * Uninstallation and Deprovisioning
 * Guidelines for Maintaining Security of Deployed Software
 * Maintaining Security After Deployment 
+  * Corrective Maintenance
+  * Adaptive Maintenance
+  * Perfective Maintenance
+  * Preventive Maintenance
 
 -----
 
