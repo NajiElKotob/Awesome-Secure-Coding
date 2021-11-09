@@ -490,11 +490,14 @@ Topic C: Prevent Privacy Vulnerabilities
 * [Acronyms and Definitions](https://github.com/NajiElKotob/Awesome-Secure-Coding/blob/main/Acronyms-and-Definitions.md)
 -----
 ## References
-* [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
+* Microsoft
+  * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov | The National Institute of Standards and Technology
 * [OWASP](https://owasp.org/) - owasp.org | The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
-* [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
+* OWASP
+  * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
+  * [Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/stable/)
 * MITRE
   * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
   * [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
