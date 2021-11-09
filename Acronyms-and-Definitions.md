@@ -12,7 +12,8 @@
 * IPsec - Internet Protocol security
 * ISO - International Organization for Standardization
 * LDAP - Lightweight Directory Access Protocol
-* OS - operating system
+* OS - Operating System
+* FIDO - Fast IDentity Online [ℹ](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless)
 * OWASP - Open Web Application Security Project
 * PASTA - Process for Attack Simulation and Threat Analysis
 * PCI DSS - Payment Card Industry Data Security Standard
