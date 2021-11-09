@@ -8,6 +8,7 @@
 * HIPAA - Health Insurance Portability and Accountability Act
 * ISMS - Information Security Management System
 * IoT - Internet of Things
+* MFA - Multi-factor Authentication
 * IPsec - Internet Protocol security
 * ISO - International Organization for Standardization
 * LDAP - Lightweight Directory Access Protocol
