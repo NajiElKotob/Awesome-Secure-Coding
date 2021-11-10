@@ -498,6 +498,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov | The National Institute of Standards and Technology
+  * [Search Vulnerability Database](https://nvd.nist.gov/vuln/search) 
 * [OWASP](https://owasp.org/) - owasp.org | The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 * OWASP
   * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
