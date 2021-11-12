@@ -277,6 +277,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ## 4. Developing Secure Code
 ### 4.1. Follow Best Practices for Secure Coding
 * Development Documentation and Deliverables
+  * [Functional vs Non-Functional Requirements: The Definitive Guide](https://qracorp.com/functional-vs-non-functional-requirements/) - qracorp.com
 * Application and Data Integrity
   * [Python Dependency Security](https://pyup.io/) - pyup.io | Keep your Python dependencies secure, up-to-date & compliant
   * [GitHub-native Dependabot](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates) - You can use Dependabot to keep the packages you use updated to the latest versions.
