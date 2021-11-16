@@ -2,6 +2,7 @@
 * AAA - authentication, authorization, and accounting
 * CIA - confidentiality, integrity, and availability [ℹ](https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
 * CISO - Chief Information Security Officer
+* CRL - Certificate Revocation List
 * DoS - Denial of Service
 * DDoS - Distributed Denial of Service
 * GDPR - General Data Protection Regulation
