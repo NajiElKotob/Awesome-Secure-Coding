@@ -504,6 +504,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * OWASP
   * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
   * [Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/stable/)
+  * [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/) - The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
 * MITRE
   * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
   * [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
