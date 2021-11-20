@@ -195,6 +195,9 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 ## 3. Designing for Security
 ### 3.1. Apply General Principles for Secure Design
 * Security in the Design Phase
+  * ~50% of software security issues are due to design flaws
+  * The design phase refers to functions typically performed by a software architect (strategic design of the entire system)
+  * Integrate security into every phase of your development process
 * Security by Obscurity vs. Security by Design
 * OWASP Security Design Principles
   * [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) - OWASP
