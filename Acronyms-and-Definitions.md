@@ -5,6 +5,7 @@
 * CRL - Certificate Revocation List
 * DoS - Denial of Service
 * DDoS - Distributed Denial of Service
+* FOSS - Free and Open Source Software
 * GDPR - General Data Protection Regulation
 * HIPAA - Health Insurance Portability and Accountability Act
 * ISMS - Information Security Management System
