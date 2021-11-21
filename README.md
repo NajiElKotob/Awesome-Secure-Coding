@@ -263,6 +263,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [STRIDE chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/) - microsoft.com
 * PASTA
 * Misuse Cases
+  * Misuse cases (aka abuse cases or attack scenarios) are a form of use case that describes actions that should be prevented 
 * Security Zones
 * Strategies for Ranking Threats
 * DREAD
