@@ -214,18 +214,6 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - Avoid Security by Obscurity. 
     - Keep security simple. 
     - Fix security issues correctly. 
-* Minimize Attack Surface Area
-* Establish Secure Defaults
-* Least Privilege
-* Least Common Mechanism
-* Defense in Depth
-* Fail Securely
-* Don't Trust Services
-* Separation of Duties
-* Security by Obscurity
-* Keep Security Simple
-  * [Top 10 Secure Computing Tips](https://security.berkeley.edu/resources/best-practices-how-to-articles/top-10-secure-computing-tips) 
-* Fix Security Issues Correctly
 * Software Design Patterns
 * Security Patterns
 * Modular Design
