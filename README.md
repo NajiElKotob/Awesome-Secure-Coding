@@ -199,6 +199,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * The design phase refers to functions typically performed by a software architect (strategic design of the entire system)
   * Integrate security into every phase of your development process
 * Security by Obscurity vs. Security by Design
+  * [Open-source and the “security through obscurity” fallacy](https://www.efrontlearning.com/blog/2012/04/open-source-and-the-security-through-obscurity-fallacy.html) - efrontlearning.com
 * OWASP Security Design Principles
   * [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) - OWASP
 * Minimize Attack Surface Area
