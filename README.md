@@ -495,6 +495,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
 * [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
 * [All About CWE: Common Weakness Enumeration](https://www.parasoft.com/blog/what-is-cwe/) - parasoft.com
+* [13 tools for checking the security risk of open-source dependencies](https://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies) - techbeacon.com
 
 ## Acronyms and Definitions
 * [Acronyms and Definitions](https://github.com/NajiElKotob/Awesome-Secure-Coding/blob/main/Acronyms-and-Definitions.md)
