@@ -7,6 +7,7 @@
 * DDoS - Distributed Denial of Service
 * FOSS - Free and Open Source Software
 * GDPR - General Data Protection Regulation
+* KISS - Keep It Simple, Stupid 
 * HIPAA - Health Insurance Portability and Accountability Act
 * ISMS - Information Security Management System
 * IoT - Internet of Things
