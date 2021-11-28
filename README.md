@@ -531,7 +531,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/) 
 * [CVE Details](https://www.cvedetails.com/) - cvedetails.com | The ultimate security vulnerability datasource
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
-
+* [The Signals Intelligence Agency (SIA), fka the National Electronic Security Authority (NESA)](https://en.wikipedia.org/wiki/Signals_Intelligence_Agency)
 
 
 ## Monitoring
