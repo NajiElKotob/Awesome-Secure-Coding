@@ -501,6 +501,10 @@ Topic C: Prevent Privacy Vulnerabilities
 * [All About CWE: Common Weakness Enumeration](https://www.parasoft.com/blog/what-is-cwe/) - parasoft.com
 * [13 tools for checking the security risk of open-source dependencies](https://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies) - techbeacon.com
 
+## Magazines
+* [LHN](https://latesthackingnews.com/category/cyber-security-news/) - latesthackingnews.com
+
+
 ## Acronyms and Definitions
 * [Acronyms and Definitions](https://github.com/NajiElKotob/Awesome-Secure-Coding/blob/main/Acronyms-and-Definitions.md)
 -----
@@ -527,6 +531,8 @@ Topic C: Prevent Privacy Vulnerabilities
   * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/) 
 * [CVE Details](https://www.cvedetails.com/) - cvedetails.com | The ultimate security vulnerability datasource
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
+
+
 
 ## Monitoring
 * [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
