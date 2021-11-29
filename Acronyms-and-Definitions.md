@@ -1,4 +1,5 @@
 ## Acronyms
+* [2FA](https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp) - Two-factor authentication
 * AAA - authentication, authorization, and accounting
 * CIA - confidentiality, integrity, and availability [ℹ](https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
 * CISO - Chief Information Security Officer
