@@ -526,7 +526,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * MITRE
   * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
   * [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
-  * [CVE](https://cve.mitre.org/) - Common Vulnerabilities and Exposures
+  * [CVE](https://cve.mitre.org/) - mitre.org | Common Vulnerabilities and Exposures
   * [ATT&CK](https://attack.mitre.org/) - mitre.org | MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [Exploit Database](https://www.exploit-db.com/) - exploit-db.com | Exploits for Penetration Testers, Researchers, and Ethical Hackers
