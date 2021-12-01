@@ -517,6 +517,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [Search Vulnerability Database](https://nvd.nist.gov/vuln/search) 
 * [OWASP](https://owasp.org/) - owasp.org | The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 * OWASP
+  * [OWASP Top 10](https://owasp.org/Top10/) - owasp.org 
   * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
   * [Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/stable/)
   * [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/) - The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
