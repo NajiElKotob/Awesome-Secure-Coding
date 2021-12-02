@@ -36,7 +36,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Engaging Stakeholders for Project Success](https://www.pmi.org/learning/library/engaging-stakeholders-project-success-11199) - pmi.org
 * Standards and Compliance Requirements
   * Government Regulations e.g. 
-    - HIPAA - Health Insurance Portability and Accountability Act
+    - [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html) - Health Insurance Portability and Accountability Act
     - FISMA - Federal Information Security Management Act 
     - SOX - Sarbanes-Oxley Act 
     - GLBA - Gramm-Leach-Bliley Act 
