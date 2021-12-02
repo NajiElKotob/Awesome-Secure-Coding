@@ -46,7 +46,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - CCPA - California Consumer Privacy Act 
   * Insdustry Standards e.g.
     - [COBIT](https://www.cio.com/article/3243684/what-is-cobit-a-framework-for-alignment-and-governance.html) - Control Objectives for Information and Related Technology
-    - ITIL - Information Technology Infrastructure Library 
+    - [ITIL](https://www.cio.com/article/2439501/infrastructure-it-infrastructure-library-itil-definition-and-solutions.html) - Information Technology Infrastructure Library 
     - [ISO/IEC 27000](https://www.iso.org/news/ref2266.html) - Information Security Management System Standards
     - GASSP/GAISP - Generally Accepted System Security Principles and Generally Accepted Information Security Principles
     - [SABSA](https://sabsa.org/) - Sherwood Applied Business Security Architecture
