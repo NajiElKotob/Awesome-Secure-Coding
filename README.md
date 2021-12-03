@@ -501,6 +501,8 @@ Topic C: Prevent Privacy Vulnerabilities
 * [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
 * [All About CWE: Common Weakness Enumeration](https://www.parasoft.com/blog/what-is-cwe/) - parasoft.com
 * [13 tools for checking the security risk of open-source dependencies](https://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies) - techbeacon.com
+* [Companies Lose $400 Billion to Hackers Each Year](https://www.inc.com/will-yakowicz/cyberattacks-cost-companies-400-billion-each-year.html) - inc.com | A new report also finds that companies will spend $170 billion on cybersecurity measures in 2020.
+
 
 ## Magazines
 * [LHN](https://latesthackingnews.com/category/cyber-security-news/) - latesthackingnews.com
