@@ -205,16 +205,16 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Hiding source code is a bad way to assume you’ll achieve security, because even a powerful and highly proprietary company can’t guarantee that source code won’t leak out.
 * OWASP Security Design Principles
   * [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) - OWASP
-    - Minimize attack surface area. 
-    - Establish secure defaults. 
-    - Least privilege. 
-    - Defense in depth. 
-    - Fail securely. 
-    - Don't trust services. 
-    - Separation of duties. 
-    - Avoid Security by Obscurity. 
-    - Keep security simple. 
-    - Fix security issues correctly. 
+    - Minimize attack surface area [learn more](https://www.okta.com/identity-101/what-is-an-attack-surface/)
+    - Establish secure defaults
+    - Least privilege
+    - Defense in depth
+    - Fail securely
+    - Don't trust services
+    - Separation of duties
+    - Avoid Security by Obscurity
+    - Keep security simple
+    - Fix security issues correctly
 * Software Design Patterns
 * Security Patterns
 * Modular Design
