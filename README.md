@@ -219,6 +219,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. [learn more](https://en.wikipedia.org/wiki/Software_design_pattern) 
 * Security Patterns
 * Modular Design
+  * [Separation of Concerns (SoC)](https://deviq.com/principles/separation-of-concerns) - deviq.com
 * Benefits of Modular Design
 * The Balance Between Defense in Depth and Simplicity
 * [Guidelines for Avoiding Common Design Mistakes](https://www.synopsys.com/blogs/software-security/avoid-software-security-flaws/) - synopsys.com
