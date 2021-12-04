@@ -221,6 +221,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 * Modular Design
   * [Separation of Concerns (SoC)](https://deviq.com/principles/separation-of-concerns) - deviq.com
 * Benefits of Modular Design
+  * Small manageable tasks; Reduce errors; Resuse; Maintainability
+  * With a modular design, the parts do not always add up to the whole. Even though each module is essentially secure, the system as a whole may not be secure due to the complexity of interactions between modules. 
 * The Balance Between Defense in Depth and Simplicity
 * [Guidelines for Avoiding Common Design Mistakes](https://www.synopsys.com/blogs/software-security/avoid-software-security-flaws/) - synopsys.com
   * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
