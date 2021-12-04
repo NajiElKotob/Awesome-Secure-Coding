@@ -225,17 +225,17 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * With a modular design, the parts do not always add up to the whole. Even though each module is essentially secure, the system as a whole may not be secure due to the complexity of interactions between modules. 
 * The Balance Between Defense in Depth and Simplicity
 * [Guidelines for Avoiding Common Design Mistakes](https://www.synopsys.com/blogs/software-security/avoid-software-security-flaws/) - synopsys.com
-  * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
-  * Use an authentication mechanism that cannot be bypassed or tampered with.
-  * Authorize after you authenticate.
-  * Strictly separate data and control instructions, and never process control instructions received from untrusted sources.
-  * Define an approach that ensures that all data are explicitly validated.
-  * Use cryptography correctly.
-  * Identify sensitive data and how they should be handled.
-  * Always consider the users.
-  * Understand how integrating external components changes your attack surface.
-  * Be flexible when considering future changes to objects and actors.
-* Avoiding Common Security Design Flaws
+  * [Avoiding Common Security Design Flaws](https://ieeecs-media.computer.org/media/technical-activities/CYBSI/docs/Top-10-Flaws.pdf)
+    * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
+    * Use an authentication mechanism that cannot be bypassed or tampered with.
+    * Authorize after you authenticate.
+    * Strictly separate data and control instructions, and never process control instructions received from untrusted sources.
+    * Define an approach that ensures that all data are explicitly validated.
+    * Use cryptography correctly.
+    * Identify sensitive data and how they should be handled.
+    * Always consider the users.
+    * Understand how integrating external components changes your attack surface.
+    * Be flexible when considering future changes to objects and actors. 
 
 
 ### 3.2. Design Software to Counter Specific Threats
