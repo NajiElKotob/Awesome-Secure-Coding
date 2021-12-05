@@ -253,37 +253,38 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [12 Available Methods (Threat Modeling)](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) - cmu.edu
   * [Threat Modeling](https://www.synopsys.com/glossary/what-is-threat-modeling.html) :star: - synopsys.com | 
   * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
-* Define General Security Objectives and Scope
-* Tooling and Documentation
-  * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
-  * [OWASP Threat Dragon](https://threatdragon.org/login)
-  * [SecuriCAD by Foreseeti](https://foreseeti.com/)
-  * [ThreatModeler](https://threatmodeler.com/)
-* Assets
-* Step 2: Decompose the Software
-* Trust Levels
-* Entry and Exit Points
-* External Dependencies
-* Data Flow Diagrams
-* Diagramming Symbols
-* Diagramming the Catalog Application
-* Step 3: Identify and Rank Threats
-* STRIDE
-  * [STRIDE chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/) - microsoft.com
-* PASTA
-* Misuse Cases
-  * Misuse cases (aka abuse cases or attack scenarios) are a form of use case that describes actions that should be prevented 
-* Security Zones
-* Strategies for Ranking Threats
-* DREAD
-  * [Qualitative Risk Analysis with the DREAD Model](https://resources.infosecinstitute.com/topic/qualitative-risk-analysis-dread-model/) - infosecinstitute.com
-* Risk Response Strategies
-* Severity
-* Risks Outside Your Control
-* Guidelines for Identifying and Ranking Threats
-* Step 4: Counter Each Threat
-* Countermeasures
-* Identifying Threats and Countermeasures
+* [Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
+  * Define General Security Objectives and Scope (Step-1)
+    * Tooling and Documentation
+     * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
+     * [OWASP Threat Dragon](https://threatdragon.org/login)
+     * [SecuriCAD by Foreseeti](https://foreseeti.com/)
+     * [ThreatModeler](https://threatmodeler.com/)
+    * Assets
+  * Decompose the Software (Step-2)
+    * Trust Levels
+    * Entry and Exit Points
+    * External Dependencies
+    * Data Flow Diagrams
+    * Diagramming Symbols
+    * Diagramming the Catalog Application
+  * Identify and Rank Threats (Step-3)
+    * STRIDE
+    * [STRIDE chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/) - microsoft.com
+    * PASTA
+    * Misuse Cases
+      * Misuse cases (aka abuse cases or attack scenarios) are a form of use case that describes actions that should be prevented 
+    * Security Zones
+    * Strategies for Ranking Threats
+    * DREAD
+      * [Qualitative Risk Analysis with the DREAD Model](https://resources.infosecinstitute.com/topic/qualitative-risk-analysis-dread-model/) - infosecinstitute.com
+    * Risk Response Strategies
+    * Severity
+    * Risks Outside Your Control
+    * Guidelines for Identifying and Ranking Threats
+  * Counter Each Threat (Step-4)
+    * Countermeasures
+    * Identifying Threats and Countermeasures
 
 
 -----
