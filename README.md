@@ -224,6 +224,8 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * Small manageable tasks; Reduce errors; Resuse; Maintainability
   * With a modular design, the parts do not always add up to the whole. Even though each module is essentially secure, the system as a whole may not be secure due to the complexity of interactions between modules. 
 * The Balance Between Defense in Depth and Simplicity
+  * KISS (“Keep It Simple Security“)  
+  * The last layer of defense for your deployment should be the ability to respond quickly. 
 * [Guidelines for Avoiding Common Design Mistakes](https://www.synopsys.com/blogs/software-security/avoid-software-security-flaws/) - synopsys.com
   * [Avoiding Common Security Design Flaws](https://ieeecs-media.computer.org/media/technical-activities/CYBSI/docs/Top-10-Flaws.pdf)
     * [Earn or give, but never assume, trust.](https://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-software-security-design-flaws-earn-or-give-but-never-assume-trust) - ieee.org
