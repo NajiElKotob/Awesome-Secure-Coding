@@ -242,6 +242,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 
 ### 3.2. Design Software to Counter Specific Threats
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
+  * Risk = Threats x Vulnerabilities x Consequences 
 * Threat Modeling
   * Microsoft Threat Modeling
     - [Microsoft Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - microsoft.com
