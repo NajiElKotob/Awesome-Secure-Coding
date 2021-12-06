@@ -534,6 +534,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [OWASP Secure Coding Practices-Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
   * [OWASP Developer Guide](https://github.com/OWASP/DevGuide) ⭐
     - [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md)
+  * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 * MITRE
   * [CAPEC](https://capec.mitre.org/) - mitre.org | Common Attack Pattern Enumeration and Classification
   * [CWE](https://cwe.mitre.org/) - mitre.org | Common Weakness Enumeration
