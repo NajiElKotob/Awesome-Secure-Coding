@@ -12,6 +12,7 @@
 * HIPAA - Health Insurance Portability and Accountability Act
 * ISMS - Information Security Management System
 * IoT - Internet of Things
+* MITM - Man-in-the-middle
 * MFA - Multi-factor Authentication
 * IPsec - Internet Protocol security
 * ISO - International Organization for Standardization
