@@ -12,6 +12,7 @@
 * HIPAA - Health Insurance Portability and Accountability Act
 * ISMS - Information Security Management System
 * IoT - Internet of Things
+* MDM - Mobile Device Management [ℹ](https://searchmobilecomputing.techtarget.com/definition/mobile-device-management)
 * MITM - Man-in-the-middle
 * MFA - Multi-factor Authentication
 * IPsec - Internet Protocol security
