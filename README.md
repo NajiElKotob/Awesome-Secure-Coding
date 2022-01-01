@@ -549,7 +549,7 @@ Topic C: Prevent Privacy Vulnerabilities
 * [CNA - CVE Numbering Authority](https://about.gitlab.com/security/cve/) - gitlab.com
 * [Information Security Database (English/Arabic)](https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/arabic/is-dictionary/index.html) - uw.edu (University of Washington)
 * [The Signals Intelligence Agency (SIA), fka the National Electronic Security Authority (NESA)](https://en.wikipedia.org/wiki/Signals_Intelligence_Agency)
-
+* [Workplace (Meta)](https://www.workplace.com/security) - workplace.com
 
 ## Monitoring
 * [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
