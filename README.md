@@ -560,3 +560,5 @@ Topic C: Prevent Privacy Vulnerabilities
 * [Cracking Stuxnet, a 21st-century cyber weapon](https://www.youtube.com/watch?v=CS01Hmjv1pQ) - Ralph Langner
 * [How the US East Coast Lost Half It's Oil to 1 Hacker](https://www.youtube.com/watch?v=rBPud5PyySk) - RealLifeLore
 
+## Learning
+* [Networking (The New Boston)](https://developer.thenewboston.com/tutorials/Networking) - thenewboston.com
