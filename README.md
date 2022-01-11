@@ -543,6 +543,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [ATT&CK](https://attack.mitre.org/) - mitre.org | MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [Exploit Database](https://www.exploit-db.com/) - exploit-db.com | Exploits for Penetration Testers, Researchers, and Ethical Hackers
+  * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) 
 * [SANS](https://www.sans.org/) - sans.org | SANS Institute is the most trusted resource for cybersecurity training, certifications and research.
   * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/) 
 * [CVE Details](https://www.cvedetails.com/) - cvedetails.com | The ultimate security vulnerability datasource
