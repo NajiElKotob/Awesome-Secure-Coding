@@ -6,7 +6,7 @@ to how software will be coded and encrypted to best defend against
 cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
 `
 
-* [What is secure coding?](https://www.whitehatsec.com/glossary/content/secure-coding)
+* [What is secure coding?](https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/secure-coding) - developer.tech.gov.sg
 
 
 {Awesome Works in Progress}
