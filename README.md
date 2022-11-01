@@ -43,6 +43,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - New York State Information Security Breach and Notification Act [learn more](https://its.ny.gov/breach-notification)
     - FFIEC - Federal Financial Institutions Examination Council 
     - GDPR - General Data Protection Regulation (EU)
+       * [30 Biggest GDPR Fines So Far (2020, 2021, 2022)](https://www.tessian.com/blog/biggest-gdpr-fines-2020)
     - CCPA - California Consumer Privacy Act 
   * Insdustry Standards e.g.
     - [COBIT](https://www.cio.com/article/3243684/what-is-cobit-a-framework-for-alignment-and-governance.html) - Control Objectives for Information and Related Technology
