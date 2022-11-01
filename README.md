@@ -45,6 +45,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - GDPR - General Data Protection Regulation (EU)
        * [30 Biggest GDPR Fines So Far (2020, 2021, 2022)](https://www.tessian.com/blog/biggest-gdpr-fines-2020)
     - CCPA - California Consumer Privacy Act 
+    - [NCSS and NIAF (UAE)](https://mohap.gov.ae/en/quick-links/digital-security)
   * Insdustry Standards e.g.
     - [COBIT](https://www.cio.com/article/3243684/what-is-cobit-a-framework-for-alignment-and-governance.html) - Control Objectives for Information and Related Technology
     - [ITIL](https://www.cio.com/article/2439501/infrastructure-it-infrastructure-library-itil-definition-and-solutions.html) - Information Technology Infrastructure Library 
