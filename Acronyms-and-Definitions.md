@@ -59,6 +59,7 @@
 * [Privacy by Design (PbD)](https://www.digital.govt.nz/standards-and-guidance/privacy-security-and-risk/privacy/manage-a-privacy-programme/privacy-by-design-pbd/) is a design methodology that includes privacy as an essential priority of any product, service, system or process. - digital.govt.nz
 * **Systems hardening** is a collection of tools, techniques, and best practices to reduce vulnerability in technology applications, systems, infrastructure, firmware, and other areas. The goal of systems hardening is to reduce security risk by eliminating potential attack vectors and condensing the system’s attack surface [learn more](https://www.beyondtrust.com/resources/glossary/systems-hardening)
 * A **Denial-of-Service (DoS)** "الحرمان من الخدمة" attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash.
+* **Data tampering** is the act of deliberately modifying (destroying, manipulating, or editing) data through unauthorized channels. Data exists in two states: in transit or at rest. In both instances, data could be intercepted and tampered with. Digital communications are all about data transmission. [Learn more](https://study.com/academy/lesson/what-is-data-tampering-definition-prevention.html)
 -----
 ## Glossaries
 * [TechTarget](https://whatis.techtarget.com/glossary/Security-Management)
