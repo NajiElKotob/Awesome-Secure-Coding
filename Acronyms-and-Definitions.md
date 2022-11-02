@@ -53,10 +53,12 @@
 
 -----
 ## Definitions
+* A **repudiation** "نكران" attack happens when an application or system does not adopt controls to properly track and log users' actions, thus permitting malicious manipulation or forging the identification of new actions.
+* **Spoofing** "انتحال", as it pertains to cybersecurity, is when someone or something pretends to be something else in an attempt to gain our confidence, get access to our systems, steal data, steal money, or spread malware. Spoofing attacks come in many forms, including: Email spoofing. Website and/or URL spoofing.
 * The **honeypot** looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure [learn more](https://me-en.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [Privacy by Design (PbD)](https://www.digital.govt.nz/standards-and-guidance/privacy-security-and-risk/privacy/manage-a-privacy-programme/privacy-by-design-pbd/) is a design methodology that includes privacy as an essential priority of any product, service, system or process. - digital.govt.nz
 * **Systems hardening** is a collection of tools, techniques, and best practices to reduce vulnerability in technology applications, systems, infrastructure, firmware, and other areas. The goal of systems hardening is to reduce security risk by eliminating potential attack vectors and condensing the system’s attack surface [learn more](https://www.beyondtrust.com/resources/glossary/systems-hardening)
-* A **repudiation** "نكران" attack happens when an application or system does not adopt controls to properly track and log users' actions, thus permitting malicious manipulation or forging the identification of new actions.
+
 -----
 ## Glossaries
 * [TechTarget](https://whatis.techtarget.com/glossary/Security-Management)
