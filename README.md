@@ -532,7 +532,7 @@ Topic C: Prevent Privacy Vulnerabilities
   * [OWASP Top 10](https://owasp.org/Top10/) - owasp.org 
   * [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
   * [Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/stable/)
-  * [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/) - The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
+  * [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/) ⭐ - The OWASP Top Ten Proactive Controls describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project.
   * [OWASP Secure Coding Practices-Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
   * [OWASP Developer Guide](https://github.com/OWASP/DevGuide) ⭐
     - [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md)
