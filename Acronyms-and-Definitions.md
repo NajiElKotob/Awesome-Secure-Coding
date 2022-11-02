@@ -42,13 +42,14 @@
 * Asset "ممتلكات": Items of value
 * Threat: The possibility of an event
 * Threat Agent "عامل التهديد": A person, actor, organization, disaster, or other entity that initiates the occurrence of a threat. [ℹ](https://www.hypr.com/security-encyclopedia/threat-agent)
-* Vector: The path or source through witch a threat is delivered.
+* Vector "المتجه": The path or source through witch a threat is delivered. It is a path that a hacker takes to exploit cybersecurity vulnerabilities.
 * Risk: The likelihood that a particular threat will actually materialize.
 * Risk Ranking "تصنيف المخاطرة": Risk is often ranked in terms of Probability x Impact
 * Exploit "الإاستخدم": A particular procedure or tool that facilitates a particular type of threat.
 * Consequence "العواقب": Damage that results from a threat being carried out.
 * Countermeasure "التدابير المضادة": Countermeasures are code, configuration of systems
 
+* ⚠ Arabic terms under review.
 
 -----
 ## Definitions
