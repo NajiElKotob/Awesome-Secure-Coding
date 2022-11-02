@@ -10,7 +10,7 @@
 * Consequence "العواقب": Damage that results from a threat being carried out.
 * Countermeasure "التدابير المضادة": Countermeasures are code, configuration of systems
 
-* ⚠ Arabic terms under review.
+⚠ Arabic terms under review.
 
 -----
 ## Definitions
@@ -18,8 +18,8 @@
 * **Spoofing** "انتحال", as it pertains to cybersecurity, is when someone or something pretends to be something else in an attempt to gain our confidence, get access to our systems, steal data, steal money, or spread malware. Spoofing attacks come in many forms, including: Email spoofing. Website and/or URL spoofing.
 * A **Denial-of-Service (DoS)** "الحرمان من الخدمة" attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash.
 * **Data tampering** "التلاعب في البيانات" is the act of deliberately modifying (destroying, manipulating, or editing) data through unauthorized channels. Data exists in two states: in transit or at rest. In both instances, data could be intercepted and tampered with. Digital communications are all about data transmission. [Learn more](https://study.com/academy/lesson/what-is-data-tampering-definition-prevention.html)
-* **Authorization** is the process of giving someone permission to do or have something.
-* **Authentication** is the process of determining whether someone or something is, in fact, who or what it says it is. Authentication technology provides access control for systems by checking to see if a user's credentials match the credentials in a database of authorized users or in a data authentication server. [Learn more](https://www.techtarget.com/searchsecurity/definition/authentication)
+* **Authorization** "ترخيص" is the process of giving someone permission to do or have something.
+* **Authentication** "المصادقة" is the process of determining whether someone or something is, in fact, who or what it says it is. Authentication technology provides access control for systems by checking to see if a user's credentials match the credentials in a database of authorized users or in a data authentication server. [Learn more](https://www.techtarget.com/searchsecurity/definition/authentication)
 * The **honeypot** looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure [learn more](https://me-en.kaspersky.com/resource-center/threats/what-is-a-honeypot)
 * [Privacy by Design (PbD)](https://www.digital.govt.nz/standards-and-guidance/privacy-security-and-risk/privacy/manage-a-privacy-programme/privacy-by-design-pbd/) is a design methodology that includes privacy as an essential priority of any product, service, system or process. - digital.govt.nz
 * **Systems hardening** is a collection of tools, techniques, and best practices to reduce vulnerability in technology applications, systems, infrastructure, firmware, and other areas. The goal of systems hardening is to reduce security risk by eliminating potential attack vectors and condensing the system’s attack surface [learn more](https://www.beyondtrust.com/resources/glossary/systems-hardening)
