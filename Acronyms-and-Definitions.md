@@ -38,8 +38,8 @@
 
 -----
 ## Software Security Terminology
-* [Vulnerability](https://csrc.nist.gov/glossary/term/vulnerability): A weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
-* Asset: Items of value
+* [Vulnerability](https://csrc.nist.gov/glossary/term/vulnerability) "الثغرات": A weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
+* Asset "ممتلكات": Items of value
 * Threat: The possibility of an event
 * Threat Agent "عامل التهديد": A person, actor, organization, disaster, or other entity that initiates the occurrence of a threat. [ℹ](https://www.hypr.com/security-encyclopedia/threat-agent)
 * Vector: The path or source through witch a threat is delivered.
