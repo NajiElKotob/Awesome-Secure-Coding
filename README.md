@@ -214,9 +214,9 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - Defense in depth (aka layered defense)
     - Fail securely
     - Don't trust services
-    - Separation of duties
+    - Separation of duties (aka separation of privilege)
     - Avoid Security by Obscurity
-    - Keep security simple
+    - Economy of Mechanism (Keep It Simple, Stupid "KISS")
     - Fix security issues correctly
 * Software Design Patterns
   * In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. [learn more](https://en.wikipedia.org/wiki/Software_design_pattern) 
