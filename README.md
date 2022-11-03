@@ -206,7 +206,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
   * [Open-source and the “security through obscurity” fallacy](https://www.efrontlearning.com/blog/2012/04/open-source-and-the-security-through-obscurity-fallacy.html) - efrontlearning.com
   * National Institute of Standards and Technology (NIST) specifically recommends against using closed source as a way to secure the software (i.e. “security through obscurity”)
   * Hiding source code is a bad way to assume you’ll achieve security, because even a powerful and highly proprietary company can’t guarantee that source code won’t leak out.
-* OWASP Security Design Principles
+* OWASP Security Design Principles ⭐
   * [Secure Design Principles](https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md) - OWASP
     - Minimize attack surface area [learn more](https://www.okta.com/identity-101/what-is-an-attack-surface/)
     - Establish secure defaults
