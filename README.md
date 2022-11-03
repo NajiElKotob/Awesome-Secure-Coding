@@ -211,7 +211,7 @@ cyber attack or vulnerabilities. [NTT Security AppSec Solutions]
     - Minimize attack surface area [learn more](https://www.okta.com/identity-101/what-is-an-attack-surface/)
     - Establish secure defaults
     - Least privilege
-    - Defense in depth
+    - Defense in depth (aka layered defense)
     - Fail securely
     - Don't trust services
     - Separation of duties
