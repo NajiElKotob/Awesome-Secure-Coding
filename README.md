@@ -572,3 +572,4 @@ Topic C: Prevent Privacy Vulnerabilities
 ## Articles
 * [What Happens If I Use Two-Factor Authentication and Lose My Phone?](https://lifehacker.com/what-do-i-do-if-i-use-two-factor-authentication-and-los-1668727532)
 * [ASP.NET Core Security - How to Secure Public APIs?](https://levelup.gitconnected.com/asp-net-core-security-ece7c675d3d4) - levelup.gitconnected.com
+* [Slow Down Online Guessing Attacks with Device Cookies](https://owasp.org/www-community/Slow_Down_Online_Guessing_Attacks_with_Device_Cookies) - owasp.org
