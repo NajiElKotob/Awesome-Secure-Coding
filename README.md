@@ -509,6 +509,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 
 ## Articles
+* [Improving ASP.NET Core Security By Putting Your Cookies On A Diet](https://nestenius.se/2024/01/22/improving-asp-net-core-security-by-putting-your-cookies-on-a-diet/) - nestenius.se
 * [The Top 8 Cybersecurity Predictions for 2021-2022](https://www.gartner.com/en/articles/the-top-8-cybersecurity-predictions-for-2021-2022) - gartner.com
 * [57 Cybersecurity Terms You Should Know in 2021](https://securityscorecard.com/blog/57-cybersecurity-terms-you-should-know-in-2021) - securityscorecard.com
 * [The Story of Cryptography: History](https://ghostvolt.com/articles/cryptography_history.html) - ghostvolt.com
