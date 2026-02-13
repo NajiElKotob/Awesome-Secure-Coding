@@ -559,7 +559,9 @@ Topic C: Prevent Privacy Vulnerabilities
 * [Workplace (Meta)](https://www.workplace.com/security) - workplace.com
 * OSINT
   - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
-    
+* AI
+  - Distillation attack
+       
 ## Monitoring
 * [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
 * [Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - fireeye.com
