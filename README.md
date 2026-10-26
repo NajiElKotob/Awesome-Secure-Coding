@@ -573,6 +573,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 ## Learning
 * [Networking (The New Boston)](https://developer.thenewboston.com/tutorials/Networking) - thenewboston.com
+* [OWASP Top 10 interactive exercises](https://ransomleak.com/catalogue/application-security/) - ransomleak.com
 
 ## Articles
 * [What Happens If I Use Two-Factor Authentication and Lose My Phone?](https://lifehacker.com/what-do-i-do-if-i-use-two-factor-authentication-and-los-1668727532)
