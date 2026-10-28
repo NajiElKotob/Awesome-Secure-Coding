@@ -506,6 +506,7 @@ Topic C: Prevent Privacy Vulnerabilities
 
 ## Tools
 * [Secure Password Generator](https://passwordsgenerator.net/) - passwordsgenerator.net
+* [Shannon](https://github.com/KeygraphHQ/shannon) - github.com | AI pentester for web applications and APIs
 
 
 ## Articles
